@@ -1,0 +1,16 @@
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.TriStateTreeView.resources
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.TriStateTreeView.resources
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls\obj\Debug\SmartSolutions.Controls.pdb

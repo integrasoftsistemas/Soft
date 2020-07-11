@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSolutions.Controls", "SmartSolutions.Controls\SmartSolutions.Controls.csproj", "{209546D1-366F-4279-ADAB-3571E7FB6AA2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSolutions.Controls.Test", "SmartSolutions.Controls.Test\SmartSolutions.Controls.Test.csproj", "{63B4545C-CFD8-4B03-AA70-E8C2C98E9EFF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{209546D1-366F-4279-ADAB-3571E7FB6AA2}.Debug.ActiveCfg = Debug|.NET
+		{209546D1-366F-4279-ADAB-3571E7FB6AA2}.Debug.Build.0 = Debug|.NET
+		{209546D1-366F-4279-ADAB-3571E7FB6AA2}.Release.ActiveCfg = Release|.NET
+		{209546D1-366F-4279-ADAB-3571E7FB6AA2}.Release.Build.0 = Release|.NET
+		{63B4545C-CFD8-4B03-AA70-E8C2C98E9EFF}.Debug.ActiveCfg = Debug|.NET
+		{63B4545C-CFD8-4B03-AA70-E8C2C98E9EFF}.Debug.Build.0 = Debug|.NET
+		{63B4545C-CFD8-4B03-AA70-E8C2C98E9EFF}.Release.ActiveCfg = Release|.NET
+		{63B4545C-CFD8-4B03-AA70-E8C2C98E9EFF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

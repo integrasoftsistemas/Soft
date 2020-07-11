@@ -1,0 +1,428 @@
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_Financeiro.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\IS_Financeiro\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmPesquisaUsuario.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmPesquisaUsuario.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe.config
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmConfigBD.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmPesquisaUsuario.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmUsuario.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmLogin.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmBanco.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmCliFor.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmMenu.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Administrativo_Proj.frmControleAcesso.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.Properties.Resources.resources
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.exe
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SIisAdmin.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\Reinaldo\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\win10-R\Desktop\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe.config
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.exe
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_SisAdmin.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_BLL.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\IS_Funcoes.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcessoAdapta.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmConfigBD.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmPesquisaUsuario.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmUsuario.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmLogin.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmCliFor.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmMenu.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frmControleAcesso.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.Properties.Resources.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.exe
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frm_ModeloBotoes.resources
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frm_ModeloMenuVertical.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frm_ModeloBotoes.resources
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_Proj\obj\Debug\IS_SisAdmin.frm_ModeloMenuVertical.resources

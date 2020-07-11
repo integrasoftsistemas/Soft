@@ -1,0 +1,36 @@
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\bin\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_Entities\obj\Debug\Financeiro_Entities.pdb

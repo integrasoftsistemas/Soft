@@ -1,0 +1,25 @@
+-- Estou criando um banco com chave primaria e auto incremental
+-- Se eu tirar o identity não é auto incremental
+-- Ai teria quer colocar no insert a seguinte linha:
+-- Insert Into PAIS (paisID, paisNome, paisSigla) values (1, 'Brasil', 'BR');
+-- (3,5) primeiro valor válido igual a 3 e se auto incrementando de 5 em 5,
+-- se for incremental 1 em 1 não precisa colocar (1,1) ficaria paisID INT Identity PRIMARY KEY NOT NULL
+CREATE TABLE Pais 
+(    
+	paisID INT Identity(1,1) PRIMARY KEY NOT NULL
+    paisNome VARCHAR (60),
+    paisSigla VARCHAR (10)
+)
+GO
+Insert Into PAIS (paisNome, paisSigla) values ('Brasil', 'BR');
+
+-- Aqui estou criando chave primária e chave extrangeira de relacionamento
+CREATE TABLE UF 
+(
+    ufID INT PRIMARY KEY identity NOT NULL,
+    ufEstado VARCHAR (75),
+	ufAbreviado VARCHAR (2),
+    ufPais INT NOT NULL
+    CONSTRAINT FK_UF_Pais FOREIGN KEY (ufPais) REFERENCES Pais (paisID)
+)
+GO

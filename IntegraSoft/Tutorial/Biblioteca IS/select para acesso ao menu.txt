@@ -1,0 +1,6 @@
+SELECT DISTINCT CatalogoFormulario.cafoNomeFormulario
+FROM            CatalogoFormulario INNER JOIN
+                         CatalogoComponente ON CatalogoFormulario.cafoID = CatalogoComponente.cacoIDForm INNER JOIN
+                         CatalogoPermissaoUsuario ON CatalogoComponente.cacoID = CatalogoPermissaoUsuario.capeusIDComponente
+WHERE        (CatalogoPermissaoUsuario.capeusIDPWUsuario = 4) AND (CatalogoPermissaoUsuario.capeusPermissao = 1)
+

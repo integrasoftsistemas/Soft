@@ -1,0 +1,26 @@
+Propriedade frm sumiu
+View Propertis WIndows
+
+Solution Explorer sumiu (lado direito)
+Provavelmente o seu solucion explorer fechou. Para abri-lo novamente aperte Ctrl + Alt + L 
+ou na aba no menu View (não sei a traducao em pt) Depois é só dar Double Click no Form1.cs
+
+Desbloquear controle do formulário (cadeado branco pequeno)
+Vai em cimo do componente desejado e Format >> Lock Control
+
+Windows Command
+Ctrl + W + A
+
+
+            //DateTime hsInicial = DateTime.Now;
+            //DateTime hsFinal = DateTime.Now;
+            //MessageBox.Show("Tempo decorrido " + (hsFinal - hsInicial).ToString() + "\r\n" + "Min: 2,15 Max: 3,75");
+
+
+eventos
+Validating é acionado imediatamente antes do início do processo de validação, este é o local para colocar o código de validação real.
+Validated é acionado após o término do processo de validação e foi projetado para ser o local para algo com base no resultado da validação.
+
+IS_Administrativo-05072020.bak
+192.168.15.153\INTEGRA2005
+INTEGRA-PC\INTEGRA2005

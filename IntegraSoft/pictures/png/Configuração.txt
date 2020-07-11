@@ -1,0 +1,13 @@
+https://www.iloveimg.com/pt/redimensionar-imagem
+Redimensionar IMAGEM
+
+https://convert.town/image-dpi
+Change the DPI of my Image
+
+A pasta "Integrasoft" não segue o padrão 128x128, 32x32, 40x40 ...
+
+Tudo são 32 bits (png, ico, ...)
+png 
+* 128 x 128 são os originais
+* 40x40 são os Menus
+* 32x32 são os Itens do Menus

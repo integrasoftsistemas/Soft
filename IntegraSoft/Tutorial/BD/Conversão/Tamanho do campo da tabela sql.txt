@@ -1,0 +1,3 @@
+SELECT        DATALENGTH(campoNomeDistrito) AS Expr1, campoNomeDistrito
+FROM            Marcelo2
+ORDER BY Expr1

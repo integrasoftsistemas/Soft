@@ -1,0 +1,80 @@
+/* Criando tabela CliFor */
+CREATE TABLE CliFor
+(    
+    cliforID					INT PRIMARY KEY NOT NULL,
+    cliforSituacaoCad			int,
+    cliforNomeRazao         	varchar(70) not null,
+    cliforFantasia          	varchar(60),
+    cliforFisica            	bit not null,
+    cliforCPF					varchar(11),
+    cliforRG					varchar(15),
+    cliforJuridica				bit not null,
+    cliforCNPJ					varchar(14), 	
+    cliforIE			    	varchar(12), 	
+    cliforIEIsento          	bit not null,
+    cliforIM					varchar(10),									
+    cliforOrgaoPublico			bit not null,
+    cliforContasReceber     	bit not null,
+    cliforContasPagar       	bit not null,
+    cliforCliente           	bit not null,
+    cliforFornecedor			bit not null,
+    cliforTransportadora		bit not null,
+    cliforFuncionario			bit not null,
+    cliforEmail					varchar(30),
+    cliforTelefone				varchar(10),
+	cliforCelular				varchar(11),
+    cliforWhatsApp				bit not null,
+    cliforCep					int not null,
+    cliforEndereco				
+    cliforNumero
+    cliforComplemento
+    cliforBairro
+    cliforDataNascimento		date,
+    cliforLocalTrabalho
+    cliforDataAdmissao			date,
+    cliforSalario
+    cliforRendaExtra
+    cliforLocalRendaExtra
+    cliforEstadoCivil
+    cliforNomeConj				varchar(70),
+    cliforDataNascimentoConjuge date,
+    cliforCPFConjuge			varchar(11),
+    cliforRGConjuge				varchar(15),
+    cliforTelefoneConjuge		varchar(10),
+    cliforCelularConjuge		varchar(11),
+    cliforWhatsAppConjuge		bit not null,
+    cliforEmailConjuge			varchar(30),
+    cliforLocalTrabConjuge
+    cliforDataAdmissaoConjuge	date,
+    cliforSalarioConjuge
+    cliforRendaExtraConjuge
+    cliforLocalRendaExtraConjuge
+    cliforDataAberturaEmpresa	date,
+    cliforCapitalSocial
+    cliforSocio1Nome			varchar(70),
+    cliforSocio1CPF				varchar(11),
+    cliforSocio1RG				varchar(15),
+    cliforSocio1DataNascimento	date,
+    cliforSocio1Telefone		varchar(10),
+    cliforSocio1Celular			varchar(11),
+    cliforSocio1WhatsApp		bit not null,
+    cliforSocio2Nome			varchar(70),
+    cliforSocio2CPF				varchar(11),
+    cliforSocio2RG				varchar(15),
+    cliforSocio2DataNascimento	date,
+    cliforSocio2Telefone		varchar(10),
+    cliforSocio2Celular			varchar(11),
+    cliforSocio2WhatsApp
+    cliforSAC
+    cliforSuframa
+    cliforRegiaoSuframa
+    cliforHTTP
+    cliforLimiteCredito
+    cliforObservacao
+    cliforDataCadastro			date,
+    cliforCadastradoPor
+    cliforComoNosConheceu
+)
+GO
+
+

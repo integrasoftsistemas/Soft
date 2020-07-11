@@ -1,0 +1,484 @@
+﻿Primeiro rodar o script cidades.sql
+
+/* Criando e inserindo dados na tabela Pais */
+CREATE TABLE Pais 
+(    
+    paisID INT Identity(1,1) PRIMARY KEY NOT NULL,
+    paisNome VARCHAR (60),
+    paisSigla VARCHAR (10)
+)
+GO
+Insert Into PAIS (paisNome, paisSigla) values ('Brasil', 'BR');
+
+
+/* Criando e inserindo dados na tabela Região */
+CREATE TABLE Regiao
+(    
+    regID INT Identity PRIMARY KEY NOT NULL,
+    regNome VARCHAR (20)    
+)
+GO
+Insert into Regiao (regNome) values ('Região Norte');
+Insert into Regiao (regNome) values ('Região Nordeste');
+Insert into Regiao (regNome) values ('Região Centro-Oeste');
+Insert into Regiao (regNome) values ('Região Sudeste');
+Insert into Regiao (regNome) values ('Região Sul');
+
+
+/* Criando e inserindo dados na tabela UF */
+CREATE TABLE UF 
+(
+    ufID INT PRIMARY KEY identity NOT NULL,
+    ufEstado VARCHAR (75),
+    ufAbreviado VARCHAR (2),
+    ufIDRegiao int NOT NULL,
+    ufCodIBGEEstado int NOT NULL,
+    ufIDPais INT NOT NULL
+    CONSTRAINT FK_UF_Pais FOREIGN KEY (ufIDPais) REFERENCES Pais (paisID),
+    CONSTRAINT FK_UF_Regiao FOREIGN KEY (ufIDRegiao) REFERENCES Regiao (regID)
+)
+GO
+INSERT INTO UF (ufEstado, ufAbreviado, ufIDRegiao, ufCodIBGEEstado, ufIDPais) VALUES
+('ACRE', 'AC', 1, 12, 1),
+('ALAGOAS', 'AL', 2, 27, 1),
+('AMAZONAS', 'AM', 1, 13, 1),
+('AMAPÁ', 'AP', 1, 16, 1),
+('BAHIA', 'BA', 2, 29, 1),
+('CEARÁ', 'CE', 2, 23, 1),
+('DISTRITO FEDERAL', 'DF', 3, 53, 1),
+('ESPÍRITO SANTO', 'ES', 4, 32, 1),
+('GOIÁS', 'GO', 3, 52, 1),
+('MARANHÃO', 'MA', 2, 21, 1),
+('MINAS GERAIS', 'MG', 4, 31, 1),
+('MATO GROSSO DO SUL', 'MS', 3, 50, 1),
+('MATO GROSSO', 'MT', 3, 51, 1),
+('PARÁ', 'PA', 1, 15, 1),
+('PARAÍBA', 'PB', 2, 25, 1),
+('PERNAMBUCO', 'PE', 2, 26, 1),
+('PIAUÍ', 'PI', 2, 22, 1),
+('PARANÁ', 'PR', 5, 41, 1),
+('RIO DE JANEIRO', 'RJ', 4, 33, 1),
+('RIO GRANDE DO NORTE', 'RN', 2, 24, 1),
+('RONDÔNIA', 'RO', 1, 11, 1),
+('RORAIMA', 'RR', 5, 14, 1),
+('RIO GRANDE DO SUL', 'RS', 5, 43, 1),
+('SANTA CATARINA', 'SC', 5, 42, 1),
+('SERGIPE', 'SE', 2, 28, 1),
+('SÃO PAULO', 'SP', 4, 35, 1),
+('TOCANTINS', 'TO', 1, 17, 1);
+
+
+/* Criando e inserindo dados na tabela MassorRegiao_Geografica */
+CREATE TABLE MassorRegiao_Geografica
+(    
+    msrID INT Identity PRIMARY KEY NOT NULL,
+    msrIDUF INT NOT NULL,
+    msrIBGE INT NOT NULL,
+    msrCodigo INT NOT NULL,
+    msrNome VARCHAR (35)
+    CONSTRAINT FK_MSR_UF FOREIGN KEY (msrIDUF) REFERENCES UF (ufID)
+)
+GO
+INSERT INTO MassorRegiao_Geografica
+                         (msrIDUF, msrIBGE, msrCodigo, msrNome)
+SELECT        UF.ufID AS UF, UF.ufCodIBGEEstado AS IBGE, Marcelo.Mesorregião_Geografica as CodMesor, Marcelo.Nome_Mesorregião as NomeMesor
+FROM            Marcelo LEFT OUTER JOIN
+                         UF ON Marcelo.UF = UF.ufCodIBGEEstado
+GROUP BY Marcelo.Mesorregião_Geografica, Marcelo.Nome_Mesorregião, UF.ufID, UF.ufCodIBGEEstado
+
+
+/* Criando e inserindo dados na tabela MicrorRegiao_Geografica */
+CREATE TABLE MicrorRegiao_Geografica
+(    
+    mirID INT Identity PRIMARY KEY NOT NULL,
+    mirIDMassorRegiao INT NOT NULL,
+    mirIBGE INT NOT NULL,
+    mirCodigo INT NOT NULL,
+    mirNome VARCHAR (35)
+    CONSTRAINT FK_MIR_MSR FOREIGN KEY (mirIDMassorRegiao) REFERENCES MassorRegiao_Geografica (msrID)
+)
+GO
+INSERT INTO MicrorRegiao_Geografica
+                         (mirIDMassorRegiao, mirIBGE, mirCodigo, mirNome)
+SELECT        MassorRegiao_Geografica.msrID AS IDMassor, MassorRegiao_Geografica.msrIBGE AS IBGE, Marcelo.Microrregiao_Geografica, Marcelo.Nome_Microrregiao
+FROM            Marcelo LEFT OUTER JOIN
+                         MassorRegiao_Geografica ON Marcelo.Mesorregião_Geografica = MassorRegiao_Geografica.msrCodigo AND Marcelo.UF = MassorRegiao_Geografica.msrIBGE
+GROUP BY Marcelo.Microrregiao_Geografica, Marcelo.Nome_Microrregiao, MassorRegiao_Geografica.msrID, MassorRegiao_Geografica.msrIBGE
+
+
+/* Criando e inserindo dados na tabela Municipio */
+CREATE TABLE Municipio
+(    
+    munID INT Identity PRIMARY KEY NOT NULL,
+    munIDMicrorRegiao INT NOT NULL,
+    munIBGECidade INT NOT NULL,
+    munNome VARCHAR (35),
+    munCompleto VARCHAR (7)
+    CONSTRAINT FK_MUN_MIR FOREIGN KEY (munIDMicrorRegiao) REFERENCES MicrorRegiao_Geografica (mirID) 
+)
+GO
+INSERT INTO Municipio
+                         (munIDMicrorRegiao, munIBGECidade, munNome, munCompleto)
+SELECT        MicrorRegiao_Geografica.mirID AS IDMicroRegiao, Marcelo.Municipio, Marcelo.Nome_Municipio, Marcelo.Cod_Municipio_Completo
+FROM            Marcelo LEFT OUTER JOIN
+                         MicrorRegiao_Geografica ON Marcelo.UF = MicrorRegiao_Geografica.mirIBGE AND Marcelo.Microrregiao_Geografica = MicrorRegiao_Geografica.mirCodigo
+
+				 
+/* Criando e inserindo dados na tabela Distrito */
+CREATE TABLE Distrito
+(    
+    disID INT Identity PRIMARY KEY NOT NULL,
+    disIDMunicipio INT NOT NULL,
+    disIBGEDistrito INT NOT NULL,
+    disNome VARCHAR (40)
+    CONSTRAINT FK_DIS_MUN FOREIGN KEY (disIDMunicipio) REFERENCES Municipio (munID) 
+)
+GO
+INSERT INTO Distrito
+                         (disIDMunicipio, disIBGEDistrito, disNome)
+SELECT        Municipio.munID, Marcelo2.campoDistrito, Marcelo2.campoNomeDistrito
+FROM            Marcelo2 INNER JOIN
+                         Municipio ON Marcelo2.campoCodMunCompleto = Municipio.munCompleto
+UPDATE Distrito
+SET disNome= UPPER(disNome)
+
+/* Agora apagando as colunas que foram colocas somente para fazer as convers~pes */
+ALTER TABLE MassorRegiao_Geografica DROP COLUMN msrIBGE;
+ALTER TABLE MicrorRegiao_Geografica DROP COLUMN mirIBGE;
+ALTER TABLE Municipio 		    DROP COLUMN munCompleto; 
+
+
+/* Criando e inserindo dados na tabela Logradouro*/
+CREATE TABLE Logradouro
+(    
+    logID INT Identity PRIMARY KEY NOT NULL,
+    logNome VARCHAR (25)
+)
+GO
+INSERT INTO LOGRADOURO (logNome) values
+('ACAMPAMENTO'),
+('ACESSO'),                   
+('ADRO'),                    
+('AEROPORTO'),                 
+('ALAMEDA'),                  
+('ALTO'),                    
+('AREA'),                    
+('AREA ESPECIAL'),               
+('ARTERIA'),                  
+('ATALHO'),                   
+('AVENIDA'),                  
+('AVENIDA CONTORNO'),              
+('BAIXA'),                   
+('BALAO'),                   
+('BALNEARIO'),                 
+('BECO'),                    
+('BELVEDERE'),                 
+('BLOCO'),                   
+('BOSQUE'),                   
+('BOULEVARD'),                 
+('BURACO'),                   
+('CAIS'),                    
+('CALCADA'),                  
+('CAMINHO'),                  
+('CAMPO'),                   
+('CANAL'),                   
+('CHACARA'),                  
+('CHAPADAO'),                  
+('CIRCULAR'),                  
+('COLONIA'),                  
+('COMPLEXO VIARIO'),              
+('CONDOMINIO'),                 
+('CONJUNTO'),                  
+('CORREDOR'),                  
+('CORREGO'),                  
+('DESCIDA'),                  
+('DESVIO'),                   
+('DISTRITO'),                  
+('ELEVADA'),                  
+('ENTRADA PARTICULAR'),             
+('ENTRE QUADRA'),                
+('ESCADA'),                   
+('ESPLANADA'),                 
+('ESTACAO'),                  
+('ESTACIONAMENTO'),               
+('ESTADIO'),                  
+('ESTANCIA'),                  
+('ESTRADA'),                  
+('ESTRADA MUNICIPAL'),             
+('FAVELA'),                   
+('FAZENDA'),                  
+('FEIRA'),                   
+('FERROVIA'),                  
+('FONTE'),                   
+('FORTE'),                   
+('GALERIA'),                  
+('GRANJA'),                   
+('HABITACIONAL'),                
+('ILHA'),                   
+('JARDIM'),
+('JARDINETE'),
+('LADEIRA'),
+('LAGO'),
+('LAGOA'),
+('LARGO'),
+('LOTEAMENTO'),
+('MARINA'),
+('MODULO'),
+('MONTE'),
+('MORRO'),
+('NUCLEO'),
+('PARADA'),
+('PARADOURO'),
+('PARALELA'),
+('PARQUE'),
+('PASSAGEM'),
+('PASSAGEM SUBTERRANEA'),
+('PASSARELA'),
+('PASSEIO'),
+('PATIO'),
+('PONTA'),
+('PONTE'),
+('PORTO'),
+('PRACA'),
+('PRACA DE ESPORTES'),
+('PRAIA'),
+('PROLONGAMENTO'),
+('QUADRA'),
+('QUINTA'),
+('QUINTAS'),
+('RAMAL'),
+('RAMPA'),
+('RECANTO'),
+('RESIDENCIAL'),
+('RETA'),
+('RETIRO'),
+('RETORNO'),
+('RODO ANEL'),
+('RODOANEL'),
+('RODOVIA'),
+('ROTATORIA'),
+('ROTULA'),
+('RUA'),
+('RUA DE LIGACAO'),
+('RUA DE PEDESTRE'),
+('SERVIDAO'),
+('SETOR'),
+('SITIO'),
+('SUBIDA'),
+('TERMINAL'),
+('TRAVESSA'),
+('TRAVESSA PARTICULAR'),
+('TRECHO'),
+('TREVO'),
+('TRINCHEIRA'),
+('TUNEL'),
+('UNIDADE'),
+('VALA'),
+('VALE'),
+('VARIANTE'),
+('VEREDA'),
+('VIA'),
+('VIA DE ACESSO'),
+('VIA DE PEDESTRE'),
+('VIA ELEVADA'),
+('VIA ELEVADO'),
+('VIA EXPRESSA'),
+('VIADUTO'),
+('VIELA'),
+('VILA'),
+('ZIGUE-ZAGUE');
+
+
+/* Criando e inserindo dados na tabela Região */
+CREATE TABLE Banco
+(    
+    banID INT Identity PRIMARY KEY NOT NULL,
+    banCompensacao VARCHAR (5),    
+    banNome VARCHAR (60),
+    banSite VARCHAR (60)
+)
+GO
+insert into Banco (banCompensacao, banNome, banSite) values
+('654', 'Banco A.J.Renner S/A', 'xxx'),
+('246', 'Banco ABC Brasil S/A', 'www.abcbrasil.com.br'), 
+('025', 'Banco Alfa S/A', 'www.bancoalfa.com.br'), 
+('641', 'Banco Alvorada S/A', 'xxx'),  
+('213', 'Banco Arbi S/A', 'www.arbi.com.br'), 
+('019', 'Banco Azteca do Brasil S/A', 'xxx'),  
+('029', 'Banco Banerj S/A', 'www.banerj.com.br'), 
+('000', 'Banco Bankpar S/A', 'www.aexp.com'),
+('740', 'Banco Barclays S/A', 'www.barclays.com'), 
+('107', 'Banco BBM S/A', 'www.bbmbank.com.br'), 
+('031', 'Banco Beg S/A', 'www.itau.com.br'), 
+('739', 'Banco BGN S/A', 'www.bgn.com.br'), 
+('096', 'Banco BM&F de Serviços de Liquidação e Custódia S/A', 'www.bmf.com.br'), 
+('318', 'Banco BMG S/A', 'www.bancobmg.com.br'), 
+('752', 'Banco BNP Paribas Brasil S/A', 'www.bnpparibas.com.br'), 
+('248', 'Banco Boavista Interatlântico S/A', 'xxx'),  
+('218', 'Banco Bonsucesso S/A', 'www.bancobonsucesso.com.br'), 
+('065', 'Banco Bracce S/A', 'www.lemon.com'), 
+('036', 'Banco Bradesco BBI S/A', 'xxx'),  
+('204', 'Banco Bradesco Cartões S/A', 'www.iamex.com.br'), 
+('394', 'Banco Bradesco Financiamentos S/A', 'www.bmc.com.br'), 
+('237', 'Banco Bradesco S/A', 'www.bradesco.com.br'), 
+('225', 'Banco Brascan S/A', 'www.bancobrascan.com.br'), 
+('M15', 'Banco BRJ S/A', 'www.brjbank.com.br'), 
+('208', 'Banco BTG Pactual S/A', 'www.pactual.com.br'), 
+('044', 'Banco BVA S/A', 'www.bancobva.com.br'), 
+('263', 'Banco Cacique S/A', 'www.bancocacique.com.br'), 
+('473', 'Banco Caixa Geral Brasil S/A', 'xxx'),  
+('412', 'Banco Capital S/A', 'www.bancocapital.com.br'), 
+('040', 'Banco Cargill S/A', 'www.bancocargill.com.br'), 
+('745', 'Banco Citibank S/A', 'www.citibank.com.br'), 
+('M08', 'Banco Citicard S/A', 'www.credicardbanco.com.br'), 
+('241', 'Banco Clássico S/A', 'xxx'),  
+('M19', 'Banco CNH Capital S/A', 'www.bancocnh.com.br'), 
+('215', 'Banco Comercial e de Investimento Sudameris S/A', 'www.sudameris.com.br'), 
+('756', 'Banco Cooperativo do Brasil S/A - BANCOOB', 'www.bancoob.com.br'), 
+('748', 'Banco Cooperativo Sicredi S/A', 'www.sicredi.com.br'), 
+('075', 'Banco CR2 S/A', 'www.bancocr2.com.br'), 
+('721', 'Banco Credibel S/A', 'www.credibel.com.br'), 
+('222', 'Banco Credit Agricole Brasil S/A', 'www.calyon.com.br'), 
+('505', 'Banco Credit Suisse (Brasil) S/A', 'www.csfb.com'), 
+('229', 'Banco Cruzeiro do Sul S/A', 'www.bcsul.com.br'), 
+('266', 'Banco Cédula S/A', 'www.bancocedula.com.br'), 
+('003', 'Banco da Amazônia S/A', 'www.bancoamazonia.com.br'), 
+('083-3', 'Banco da China Brasil S/A', 'xxx'),  
+('M21', 'Banco Daimlerchrysler S/A', 'www.bancodaimlerchrysler.com.br'), 
+('707', 'Banco Daycoval S/A', 'www.daycoval.com.br'), 
+('300', 'Banco de La Nacion Argentina', 'www.bna.com.ar'), 
+('495', 'Banco de La Provincia de Buenos Aires', 'www.bapro.com.ar'), 
+('494', 'Banco de La Republica Oriental del Uruguay', 'xxx'),  
+('M06', 'Banco de Lage Landen Brasil S/A', 'www.delagelanden.com'), 
+('024', 'Banco de Pernambuco S/A - BANDEPE', 'www.bandepe.com.br'), 
+('456', 'Banco de Tokyo-Mitsubishi UFJ Brasil S/A', 'www.btm.com.br'), 
+('214', 'Banco Dibens S/A', 'www.bancodibens.com.br'), 
+('001', 'Banco do Brasil S/A', 'www.bb.com.br'), 
+('047', 'Banco do Estado de Sergipe S/A', 'www.banese.com.br'), 
+('037', 'Banco do Estado do Pará S/A', 'www.banparanet.com.br'), 
+('039', 'Banco do Estado do Piauí S/A - BEP', 'www.bep.com.br'), 
+('041', 'Banco do Estado do Rio Grande do Sul S/A', 'www.banrisul.com.br'), 
+('004', 'Banco do Nordeste do Brasil S/A', 'www.banconordeste.gov.br'), 
+('265', 'Banco Fator S/A', 'www.bancofator.com.br'), 
+('M03', 'Banco Fiat S/A', 'www.bancofiat.com.br'), 
+('224', 'Banco Fibra S/A', 'www.bancofibra.com.br'), 
+('626', 'Banco Ficsa S/A', 'www.ficsa.com.br'), 
+('M18', 'Banco Ford S/A', 'www.bancoford.com.br'), 
+('233', 'Banco GE Capital S/A', 'www.ge.com.br'), 
+('734', 'Banco Gerdau S/A', 'www.bancogerdau.com.br'), 
+('M07', 'Banco GMAC S/A', 'www.bancogm.com.br'), 
+('612', 'Banco Guanabara S/A', 'www.bcoguan.com.br'), 
+('M22', 'Banco Honda S/A', 'www.bancohonda.com.br'), 
+('063', 'Banco Ibi S/A Banco Múltiplo', 'www.ibi.com.br'), 
+('M11', 'Banco IBM S/A', 'www.ibm.com/br/financing/'), 
+('604', 'Banco Industrial do Brasil S/A', 'www.bancoindustrial.com.br'), 
+('320', 'Banco Industrial e Comercial S/A', 'www.bicbanco.com.br'), 
+('653', 'Banco Indusval S/A', 'www.indusval.com.br'), 
+('630', 'Banco Intercap S/A', 'www.intercap.com.br'), 
+('077-9', 'Banco Intermedium S/A', 'www.intermedium.com.br'), 
+('249', 'Banco Investcred Unibanco S/A', 'xxx'), 
+('M09', 'Banco Itaucred Financiamentos S/A', 'www.itaucred.com.br'), 
+('184', 'Banco Itaú BBA S/A', 'www.itaubba.com.br'), 
+('479', 'Banco ItaúBank S/A', 'www.itaubank.com.br'), 
+('376', 'Banco J. P. Morgan S/A', 'www.jpmorgan.com'), 
+('074', 'Banco J. Safra S/A', 'www.jsafra.com.br'), 
+('217', 'Banco John Deere S/A', 'www.johndeere.com.br'), 
+('076', 'Banco KDB S/A', 'www.bancokdb.com.br'), 
+('757', 'Banco KEB do Brasil S/A', 'www.bancokeb.com.br'), 
+('600', 'Banco Luso Brasileiro S/A', 'www.lusobrasileiro.com.br'), 
+('212', 'Banco Matone S/A', 'www.bancomatone.com.br'), 
+('M12', 'Banco Maxinvest S/A', 'www.bancomaxinvest.com.br'), 
+('389', 'Banco Mercantil do Brasil S/A', 'www.mercantil.com.br'), 
+('746', 'Banco Modal S/A', 'www.bancomodal.com.br'), 
+('M10', 'Banco Moneo S/A', 'www.bancomoneo.com.br'), 
+('738', 'Banco Morada S/A', 'www.bancomorada.com.br'), 
+('066', 'Banco Morgan Stanley S/A', 'www.morganstanley.com.br'), 
+('243', 'Banco Máxima S/A', 'www.bancomaxima.com.br'), 
+('045', 'Banco Opportunity S/A', 'www.opportunity.com.br'), 
+('M17', 'Banco Ourinvest S/A', 'www.ourinvest.com.br'), 
+('623', 'Banco Panamericano S/A', 'www.panamericano.com.br'), 
+('611', 'Banco Paulista S/A', 'www.bancopaulista.com.br'), 
+('613', 'Banco Pecúnia S/A', 'www.bancopecunia.com.br'), 
+('094-2', 'Banco Petra S/A', 'www.personaltrader.com.br'), 
+('643', 'Banco Pine S/A', 'www.bancopine.com.br'), 
+('724', 'Banco Porto Seguro S/A', 'xxx'), 
+('735', 'Banco Pottencial S/A', 'www.pottencial.com.br'), 
+('638', 'Banco Prosper S/A', 'www.bancoprosper.com.br'), 
+('M24', 'Banco PSA Finance Brasil S/A', 'xxx'), 
+('747', 'Banco Rabobank International Brasil S/A', 'www.rabobank.com.br'), 
+('088-4', 'Banco Randon S/A	', 'xxx'), 
+('356', 'Banco Real S/A', 'www.bancoreal.com.br'), 
+('633', 'Banco Rendimento S/A', 'www.rendimento.com.br'), 
+('741', 'Banco Ribeirão Preto S/A', 'www.brp.com.br'), 
+('M16', 'Banco Rodobens S/A', 'www.rodobens.com.br'), 
+('072', 'Banco Rural Mais S/A', 'www.rural.com.br'), 
+('453', 'Banco Rural S/A', 'www.rural.com.br'), 
+('422', 'Banco Safra S/A', 'www.safra.com.br'), 
+('033', 'Banco Santander (Brasil) S/A', 'www.santander.com.br'), 
+('250', 'Banco Schahin S/A', 'www.bancoschahin.com.br'), 
+('743', 'Banco Semear S/A', 'www.bancosemear.com.br'), 
+('749', 'Banco Simples S/A', 'www.bancosimples.com.br'), 
+('366', 'Banco Société Générale Brasil S/A', 'www.sgbrasil.com.br'), 
+('637', 'Banco Sofisa S/A', 'www.sofisa.com.br'), 
+('012', 'Banco Standard de Investimentos S/A', 'www.standardbank.com'), 
+('464', 'Banco Sumitomo Mitsui Brasileiro S/A', 'xxx'), 
+('082-5', 'Banco Topázio S/A', 'www.bancotopazio.com.br'), 
+('M20', 'Banco Toyota do Brasil S/A', 'www.bancotoyota.com.br'), 
+('M13', 'Banco Tricury S/A', 'www.tricury.com.br'), 
+('634', 'Banco Triângulo S/A', 'www.tribanco.com.br'), 
+('M14', 'Banco Volkswagen S/A', 'www.bancovw.com.br'), 
+('M23', 'Banco Volvo (Brasil) S/A', 'xxx'), 
+('655', 'Banco Votorantim S/A', 'www.bancovotorantim.com.br'), 
+('610', 'Banco VR S/A', 'www.vr.com.br'), 
+('370', 'Banco WestLB do Brasil S/A', 'www.westlb.com.br'), 
+('021', 'BANESTES S/A Banco do Estado do Espírito Santo', 'www.banestes.com.br'), 
+('719', 'Banif-Banco Internacional do Funchal (Brasil)S/A', 'www.banif.com.br'), 
+('755', 'Bank of America Merrill Lynch Banco Múltiplo S/A', 'www.ml.com'), 
+('744', 'BankBoston N.A.', 'www.bankboston.com.br'), 
+('073', 'BB Banco Popular do Brasil S/A', 'www.bancopopulardobrasil.com.br'), 
+('078', 'BES Investimento do Brasil S/A-Banco de Investimento', 'www.besinvestimento.com.br'), 
+('069', 'BPN Brasil Banco Múltiplo S/A', 'www.bpnbrasil.com.br'), 
+('070', 'BRB - Banco de Brasília S/A', 'www.brb.com.br'), 
+('092-2', 'Brickell S/A Crédito, financiamento e Investimento', 'xxx'), 
+('104', 'Caixa Econômica Federal', 'www.caixa.gov.br'), 
+('477', 'Citibank N.A.', 'www.citibank.com/brasil'), 
+('081-7', 'Concórdia Banco S/A', 'www.concordiabanco.com'), 
+('097-3', 'Cooperativa Central de Crédito Noroeste Brasileiro Ltda', 'xxx'), 
+('085-x', 'Cooperativa Central de Crédito Urbano-CECRED', 'xxx'), 
+('099-x', 'Cooperativa Central de Economia e Credito Mutuo das Unicreds', 'xxx'), 
+('090-2', 'Cooperativa Central de Economia e Crédito Mutuo das Unicreds', 'xxx'), 
+('089-2', 'Cooperativa de Crédito Rural da Região de Mogiana', 'xxx'), 
+('087-6', 'Cooperativa Unicred Central Santa Catarina', 'xxx'), 
+('098-1', 'Credicorol Cooperativa de Crédito Rural', 'xxx'), 
+('487', 'Deutsche Bank S/A - Banco Alemão', 'www.deutsche-bank.com.br'), 
+('751', 'Dresdner Bank Brasil S/A - Banco Múltiplo', 'www.dkib.com.br'), 
+('064', 'Goldman Sachs do Brasil Banco Múltiplo S/A', 'www.goldmansachs.com'), 
+('062', 'Hipercard Banco Múltiplo S/A', 'www.hipercard.com.br'), 
+('399', 'HSBC Bank Brasil S/A - Banco Múltiplo', 'www.hsbc.com.br'), 
+('168', 'HSBC Finance (Brasil) S/A - Banco Múltiplo', 'xxx'), 
+('492', 'ING Bank N.V.', 'www.ing.com'), 
+('652', 'Itaú Unibanco Holding S/A', 'www.itau.com.br'), 
+('341', 'Itaú Unibanco S/A', 'www.itau.com.br'), 
+('079', 'JBS Banco S/A', 'www.bancojbs.com.br'), 
+('488', 'JPMorgan Chase Bank', 'www.jpmorganchase.com'), 
+('014', 'Natixis Brasil S/A Banco Múltiplo', 'xxx'), 
+('753', 'NBC Bank Brasil S/A - Banco Múltiplo', 'www.nbcbank.com.br'), 
+('086-8', 'OBOE Crédito Financiamento e Investimento S/A', 'xxx'), 
+('254', 'Paraná Banco S/A', 'www.paranabanco.com.br'), 
+('409', 'UNIBANCO - União de Bancos Brasileiros S/A', 'www.unibanco.com.br'), 
+('230', 'Unicard Banco Múltiplo S/A', 'www.unicard.com.br'), 
+('091-4', 'Unicred Central do Rio Grande do Sul', 'www.unicred-rs.com.br'), 
+('084', 'Unicred Norte do Paraná', 'xxx');
+
+update Banco set banNome = upper(banNome) 
+update Banco set banSite = lower(banSite)
+UPDATE Banco set banSite = '' where (banSite = 'XXX')
+
+/*
+SELECT RIGHT(REPLICATE('0', 2) + CONVERT(VarChar(15), UF.ufCodIBGEEstado), 2) + RIGHT(REPLICATE('0', 5) + CONVERT(VarChar(15), Municipio.munIBGECidade), 5) AS CodIBGE
+FROM   MicrorRegiao_Geografica INNER JOIN
+       Municipio ON MicrorRegiao_Geografica.mirID = Municipio.munIDMicrorRegiao INNER JOIN
+       MassorRegiao_Geografica ON MicrorRegiao_Geografica.mirIDMassorRegiao = MassorRegiao_Geografica.msrID LEFT OUTER JOIN
+       UF ON MassorRegiao_Geografica.msrIDUF = UF.ufID
+WHERE  (UF.ufAbreviado = 'SP') AND (Municipio.munNome = 'CATANDUVA')
+*/

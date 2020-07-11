@@ -1,0 +1,51 @@
+https://github.com/controlid/Exemplos-dedicados-ao-REP/wiki/Registrando-DLL-e-TLB
+
+Registrando DLL e TLB
+jsallaberry-controlid edited this page on 18 Feb 2016 · 2 revisions
+Utilização em outros ambientes (objeto COM)
+Como qualquer objeto COM, é necessário registrar o objeto no sistema antes que possa ser utilizado. Entretanto, por se tratar de um objeto COM que utiliza a plataforma Microsoft .NET, o .NET Framework 4.0 (ou superior) deverá estar instalado no computador. Além disso, o processo de registro do objeto COM é diferenciado.
+
+Copie o arquivo RepCid.dll para um local em seu computador.
+É importante escolher um local que não precisará ser alterado pois, caso seja alterado, o processo de registro precisará ser refeito.
+
+Encontre o programa RegAsm.exe
+(este é instalado como parte do .NET Framework SDK). Em geral, ele fica localizado em uma das localidades abaixo, escolha a mais adequada para seu sistema. Os passos seguintes utilizarão como exemplo o caminho da versão de 32 bits.
+
+Versão 32 bits: C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+Versão 64 bits: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\   <------------ Ver aqui
+
+-----------------------------------------------------------------------------------------
+                         Registre o objeto COM no Windows: 
+-----------------------------------------------------------------------------------------
+Abra um terminal MS-DOS como administrador, e mude para a pasta do RegAsm.exe:
+
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+
+Registre os tipos exportados pela biblioteca:
+
+RegAsm.exe "C:\Caminho\Da\Pasta\RepCid.dll" /tlb
+
+Registre o objeto da bilbioteca:
+
+RegAsm.exe "C:\Caminho\Da\Pasta\RepCid.dll" /codebase
+
+Note que nesse ponto deve surgir um alerta, que é esperado e não implica em nenhum problema:
+
+RegAsm : warning RA0000 : Registering anunsigned assembly with /codebase can cause your assembly (…)
+
+-----------------------------------------------------------------------------------------
+
+Adicione uma referência ao objeto COM em seu ambiente de desenvolvimento.
+
+Microsoft© Visual Studio 2010, C++: Use o projeto de demonstração TesteRepCidCpp como exemplo. Ele mostra como utilizar a biblioteca RepCid através do Visual C++. O mais importante a ser notado é o uso das diretivas #import no arquivo TesteRepCidCpp.cpp daquele exemplo.
+
+Borland© Delphi 2005 – 2006: Com um projeto aberto, abra o Menu Project e selecione o item Import Type Library. Na tela que se abre, selecione o item RepCid. (se não encontrar esse item, clique no botão Abrir e encontre o arquivo RepCid.tlb). Pressione Create Unit e o componente deve estar pronto para utilização.
+
+Outros: siga as instruções oferecidas no ambiente de desenvolvimento para incluir uma referência ao objeto RepCid.
+
+ Pages 3
+Site Control iD
+
+Clone this wiki locally
+https://github.com/controlid/Exemplos-dedicados-ao-REP.wiki.git
+© 2019 GitHub, Inc.

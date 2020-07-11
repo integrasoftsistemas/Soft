@@ -1,0 +1,83 @@
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\rs-win10\Source\Repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Desktop\Era do 2019\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\Win10M\source\repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\SB_Util.dll
+C:\Users\win10-R\Desktop\colocar dentro do repos\Financeiro\Financeiro_BLL\bin\Debug\SB_Util.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\SB_Util.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\bin\Debug\SB_Util.pdb
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\win10-R\source\repos\SB-system\SB\Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\Financeiro_BLL\bin\Debug\SB_Util.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\Financeiro_BLL\obj\Debug\Financeiro_BLL.csproj.CopyComplete

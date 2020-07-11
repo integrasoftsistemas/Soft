@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuracoes>
+  <ConexaoBD>
+    <NomeConexao>3up/6sepZ53h9xfbe2swT60EcdfWyZUgVenQXR4VwTpNinhCO7AqM2x/bUrMEZ5q</NomeConexao>
+    <ServidorInstancia>yMsfQm6SGvifCkkifNXGz5EFjPMQHdyKcNqyCJTsgDerZS9z4DoY+dnjq5E5xFlF</ServidorInstancia>
+    <BancoDados>uMw4WrJ9rPYTz0+BQnPEbcGE5IkiNZxpeKcz8f+z8Gl7u27zq/X4rEivtsLIOzS8</BancoDados>
+    <Login>vQZCOg0vbh+Ls7G9J+6Pog==</Login>
+    <Senha>ki/1v4Lcboc4fqp2SFXsuw==</Senha>
+    <TimeOut>sNG4SKxdIbhHT1e6zELnSA==</TimeOut>
+  </ConexaoBD>
+</Configuracoes>

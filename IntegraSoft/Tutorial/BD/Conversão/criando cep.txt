@@ -1,0 +1,45 @@
+-- rodar primeiro criando viacep.txt
+
+/* Criando e inserindo dados na tabela Cep */
+CREATE TABLE Cep
+(    
+    cepID INT Identity PRIMARY KEY NOT NULL,
+    cepCep varchar(08),
+    cepIDLogradouro int not null,
+    cepEndereco varchar(50),
+    cepComplemento varchar(30),
+    cepBairro varchar(70),
+    cepIDCidade int not null,
+    cepGia int not null	
+	CONSTRAINT FK_CEP_Logradouro FOREIGN KEY (cepIDLogradouro) REFERENCES Logradouro (logID),
+	CONSTRAINT FK_CEP_Municipio FOREIGN KEY (cepIDCidade) REFERENCES Municipio (munID)
+)
+GO
+
+-- Aqui começa manual para achar os id
+
+/* Aqui vou achar o ID do Logradouro no qual o cepIDLogradouro sera o valor do ID_Do_Logradouro */
+SELECT Logradouro.logID AS ID_Do_Logradouro
+FROM Logradouro RIGHT OUTER JOIN
+VIACEP ON Logradouro.logNome = VIACEP.logradouro
+
+/* Aqui acho o Código do IBGE do UF e Cidade no qual o cepIDCidade sera o munID*/
+declare @UF varchar(02), @Cidade varchar(35)
+set @UF = 'SP'              -- alterar aqui
+set @Cidade = 'CATANDUVA'   -- alterar aqui
+
+SELECT        RIGHT(REPLICATE('0', 2) + CONVERT(VarChar(15), UF.ufCodIBGEEstado), 2) + RIGHT(REPLICATE('0', 5) + CONVERT(VarChar(15), Municipio.munIBGECidade), 5) AS CodIBGE, Municipio.munID
+FROM            MicrorRegiao_Geografica INNER JOIN
+                         Municipio ON MicrorRegiao_Geografica.mirID = Municipio.munIDMicrorRegiao INNER JOIN
+                         MassorRegiao_Geografica ON MicrorRegiao_Geografica.mirIDMassorRegiao = MassorRegiao_Geografica.msrID LEFT OUTER JOIN
+                         UF ON MassorRegiao_Geografica.msrIDUF = UF.ufID
+WHERE        (UF.ufAbreviado = @UF) AND (Municipio.munNome = @Cidade)
+
+
+-- fim do manual, agora vamos inserir dados na tabela CEP
+
+-- Agora vou inserir os dados na tabela CEP
+INSERT INTO Cep (cepCep, cepIDLogradouro, cepEndereco, cepComplemento, cepBairro, cepIDCidade, cepGia)
+SELECT REPLACE(cep, '-', '' ), idLogradouro, Endereco, Complemento, Bairro, 3394, Gia
+FROM  viacep
+

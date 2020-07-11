@@ -1,0 +1,147 @@
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\obj\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Financeiro_DAL\obj\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\repos\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Projeto-IntegraSoft\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\win10-R\Source\Repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Reinaldo\source\repos\IntegraSoft 07032020\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\C# 7\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_DAL.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\Administrativo_Entities.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\IS_Funcoes.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csprojAssemblyReference.cache
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
+C:\Users\Win10-M\source\repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb

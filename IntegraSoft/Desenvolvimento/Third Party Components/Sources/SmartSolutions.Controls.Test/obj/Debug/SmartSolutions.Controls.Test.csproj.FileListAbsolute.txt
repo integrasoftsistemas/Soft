@@ -1,0 +1,22 @@
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.Test.exe
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.Test.pdb
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.Form1.resources
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.CopyComplete
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.exe
+C:\Users\marcio\Desktop\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.pdb
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.Test.exe
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.Test.pdb
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\bin\Debug\SmartSolutions.Controls.pdb
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csprojAssemblyReference.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.Form1.resources
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.GenerateResource.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.CoreCompileInputs.cache
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.csproj.CopyComplete
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.exe
+C:\Users\marcio\Desktop\C# 7\Sources\SmartSolutions.Controls.Test\obj\Debug\SmartSolutions.Controls.Test.pdb

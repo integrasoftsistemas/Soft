@@ -1,0 +1,77 @@
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\IS_Financeiro.exe.config
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\SB_Util.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\SB_Util.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\SB_Financeiro.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\Financeiro\SB_Financeiro\obj\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe.config
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\SB_Util.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.CopyComplete
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csprojAssemblyReference.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmUsuario.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmLogin.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmBanco.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmCliFor.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmConfigBD.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmMenu.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.frmControleAcesso.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.Properties.Resources.resources
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.GenerateResource.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe.config
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.exe
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Financeiro.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Brazuca.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Funcoes.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.dll
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_BLL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_Entities.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\IS_Funcoes.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\bin\Debug\Financeiro_DAL.pdb
+C:\Users\Reinaldo\Source\Repos\IntegraSoft - Financeiro\IS_Financeiro\obj\Debug\IS_Financeiro.csproj.CopyComplete

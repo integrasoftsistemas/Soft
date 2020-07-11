@@ -1,0 +1,39 @@
+﻿DROP TABLE dbo.CatalogoPermissaoUsuario;  
+DROP TABLE dbo.CatalogoComponente;  
+DROP TABLE dbo.CatalogoFormulario;  
+
+/* Criando tabela CatalogoFormulario */
+CREATE TABLE CatalogoFormulario
+(    
+    	cafoID        		INT Identity(1,1) PRIMARY KEY NOT NULL,
+    	cafoNomeFormulario      VARCHAR (70) NOT NULL,
+	cafoNomeAmigavel        VARCHAR (70) NOT NULL,	
+	cafoNomeFullFormulario	VARCHAR (100) NOT NULL,	
+	cafoNomeMenuAcesso	VARCHAR (100),	
+	cafoChecked   		BIT
+)
+GO
+
+/* Criando tabela CatalogoComponente */
+CREATE TABLE CatalogoComponente
+(    
+    	cacoID             	INT Identity PRIMARY KEY NOT NULL,
+    	cacoIDForm        	INT NOT NULL,
+	cacoNomeComponente	VARCHAR (100),
+	cacoNomeAmigavel   	VARCHAR (100),
+	cacoChecked        	BIT	
+	CONSTRAINT FK_CatalogoComponente FOREIGN KEY (cacoIDForm) REFERENCES CatalogoFormulario (cafoID)
+)
+GO
+
+/* Criando tabela CatalogoPermissaoUsuario */
+CREATE TABLE CatalogoPermissaoUsuario
+(    
+    	capeusID            	INT Identity PRIMARY KEY NOT NULL,
+    	capeusIDComponente  	INT NOT NULL,
+	capeusIDPWUsuario   	INT NOT NULL,
+	capeusPermissao     	BIT
+	CONSTRAINT FK_CatalogoPermissaoUsuario_Compo FOREIGN KEY (capeusIDComponente) REFERENCES CatalogoComponente (cacoID),
+	CONSTRAINT FK_CatalogoPermissaoUsuario_Usu   FOREIGN KEY (capeusIDPWUsuario)  REFERENCES [PW~Usuarios] ([PW~ID])
+)
+GO
