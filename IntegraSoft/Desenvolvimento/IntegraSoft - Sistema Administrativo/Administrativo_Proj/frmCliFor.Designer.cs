@@ -207,10 +207,7 @@
             this.btnUltimo = new Bunifu.Framework.UI.BunifuFlatButton();
             this.label70 = new System.Windows.Forms.Label();
             this.cboSituacaoRF = new System.Windows.Forms.ComboBox();
-<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
-=======
->>>>>>> parent of 40d2fb4... cliente
             this.pnlTipoPessoa.SuspendLayout();
             this.pnlTopo.SuspendLayout();
             this.tbcInfo.SuspendLayout();
@@ -229,12 +226,7 @@
             // txtNomeRazao
             // 
             this.txtNomeRazao.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtNomeRazao.Location = new System.Drawing.Point(586, 53);
-=======
-            this.txtNomeRazao.Location = new System.Drawing.Point(781, 65);
-            this.txtNomeRazao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtNomeRazao.Name = "txtNomeRazao";
             this.txtNomeRazao.Size = new System.Drawing.Size(403, 21);
             this.txtNomeRazao.TabIndex = 6;
@@ -255,12 +247,7 @@
             // 
             this.rdbFisica.AutoSize = true;
             this.rdbFisica.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.rdbFisica.Location = new System.Drawing.Point(5, 2);
-=======
-            this.rdbFisica.Location = new System.Drawing.Point(7, 2);
-            this.rdbFisica.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.rdbFisica.Name = "rdbFisica";
             this.rdbFisica.Size = new System.Drawing.Size(56, 17);
             this.rdbFisica.TabIndex = 0;
@@ -273,12 +260,7 @@
             // 
             this.rdbJuridica.AutoSize = true;
             this.rdbJuridica.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.rdbJuridica.Location = new System.Drawing.Point(225, 2);
-=======
-            this.rdbJuridica.Location = new System.Drawing.Point(300, 2);
-            this.rdbJuridica.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.rdbJuridica.Name = "rdbJuridica";
             this.rdbJuridica.Size = new System.Drawing.Size(69, 17);
             this.rdbJuridica.TabIndex = 5;
@@ -305,12 +287,7 @@
             this.pnlTipoPessoa.Controls.Add(this.rdbFisica);
             this.pnlTipoPessoa.Controls.Add(this.rdbJuridica);
             this.pnlTipoPessoa.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.pnlTipoPessoa.Location = new System.Drawing.Point(5, 37);
-=======
-            this.pnlTipoPessoa.Location = new System.Drawing.Point(7, 46);
-            this.pnlTipoPessoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.pnlTipoPessoa.Name = "pnlTipoPessoa";
             this.pnlTipoPessoa.Size = new System.Drawing.Size(575, 87);
             this.pnlTipoPessoa.TabIndex = 1;
@@ -320,12 +297,7 @@
             this.chkOrgaoPublico.AutoSize = true;
             this.chkOrgaoPublico.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkOrgaoPublico.ForeColor = System.Drawing.Color.Maroon;
-<<<<<<< HEAD
             this.chkOrgaoPublico.Location = new System.Drawing.Point(464, 2);
-=======
-            this.chkOrgaoPublico.Location = new System.Drawing.Point(619, 2);
-            this.chkOrgaoPublico.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkOrgaoPublico.Name = "chkOrgaoPublico";
             this.chkOrgaoPublico.Size = new System.Drawing.Size(103, 17);
             this.chkOrgaoPublico.TabIndex = 11;
@@ -347,12 +319,7 @@
             // txtIM
             // 
             this.txtIM.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtIM.Location = new System.Drawing.Point(336, 62);
-=======
-            this.txtIM.Location = new System.Drawing.Point(448, 76);
-            this.txtIM.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtIM.Name = "txtIM";
             this.txtIM.Size = new System.Drawing.Size(122, 21);
             this.txtIM.TabIndex = 13;
@@ -363,12 +330,7 @@
             this.chkIEIsento.AutoSize = true;
             this.chkIEIsento.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkIEIsento.ForeColor = System.Drawing.Color.Maroon;
-<<<<<<< HEAD
             this.chkIEIsento.Location = new System.Drawing.Point(464, 34);
-=======
-            this.chkIEIsento.Location = new System.Drawing.Point(619, 42);
-            this.chkIEIsento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkIEIsento.Name = "chkIEIsento";
             this.chkIEIsento.Size = new System.Drawing.Size(63, 17);
             this.chkIEIsento.TabIndex = 8;
@@ -390,12 +352,7 @@
             // txtIE
             // 
             this.txtIE.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtIE.Location = new System.Drawing.Point(336, 32);
-=======
-            this.txtIE.Location = new System.Drawing.Point(448, 39);
-            this.txtIE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtIE.Name = "txtIE";
             this.txtIE.Size = new System.Drawing.Size(122, 21);
             this.txtIE.TabIndex = 10;
@@ -404,12 +361,7 @@
             // mskCNPJ
             // 
             this.mskCNPJ.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCNPJ.Location = new System.Drawing.Point(336, 2);
-=======
-            this.mskCNPJ.Location = new System.Drawing.Point(448, 2);
-            this.mskCNPJ.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCNPJ.Mask = "99,999,999/9999-99";
             this.mskCNPJ.Name = "mskCNPJ";
             this.mskCNPJ.Size = new System.Drawing.Size(122, 21);
@@ -439,12 +391,7 @@
             // txtRG
             // 
             this.txtRG.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtRG.Location = new System.Drawing.Point(97, 37);
-=======
-            this.txtRG.Location = new System.Drawing.Point(129, 46);
-            this.txtRG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtRG.Name = "txtRG";
             this.txtRG.Size = new System.Drawing.Size(101, 21);
             this.txtRG.TabIndex = 4;
@@ -453,12 +400,7 @@
             // mskCPF
             // 
             this.mskCPF.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCPF.Location = new System.Drawing.Point(97, 2);
-=======
-            this.mskCPF.Location = new System.Drawing.Point(129, 2);
-            this.mskCPF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCPF.Mask = "999,999,999-99";
             this.mskCPF.Name = "mskCPF";
             this.mskCPF.Size = new System.Drawing.Size(101, 21);
@@ -478,12 +420,7 @@
             // mskCep
             // 
             this.mskCep.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCep.Location = new System.Drawing.Point(5, 146);
-=======
-            this.mskCep.Location = new System.Drawing.Point(7, 180);
-            this.mskCep.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCep.Mask = "99,999-999";
             this.mskCep.Name = "mskCep";
             this.mskCep.Size = new System.Drawing.Size(83, 21);
@@ -506,12 +443,7 @@
             this.txtLogradouro.Enabled = false;
             this.txtLogradouro.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtLogradouro.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtLogradouro.Location = new System.Drawing.Point(159, 146);
-=======
-            this.txtLogradouro.Location = new System.Drawing.Point(212, 180);
-            this.txtLogradouro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtLogradouro.Name = "txtLogradouro";
             this.txtLogradouro.Size = new System.Drawing.Size(149, 21);
             this.txtLogradouro.TabIndex = 22;
@@ -542,12 +474,7 @@
             this.txtEndereco.BackColor = System.Drawing.Color.Gainsboro;
             this.txtEndereco.Enabled = false;
             this.txtEndereco.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtEndereco.Location = new System.Drawing.Point(314, 146);
-=======
-            this.txtEndereco.Location = new System.Drawing.Point(419, 180);
-            this.txtEndereco.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtEndereco.Name = "txtEndereco";
             this.txtEndereco.Size = new System.Drawing.Size(559, 21);
             this.txtEndereco.TabIndex = 24;
@@ -558,12 +485,7 @@
             this.txtBairro.BackColor = System.Drawing.Color.Gainsboro;
             this.txtBairro.Enabled = false;
             this.txtBairro.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtBairro.Location = new System.Drawing.Point(5, 194);
-=======
-            this.txtBairro.Location = new System.Drawing.Point(7, 239);
-            this.txtBairro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtBairro.Name = "txtBairro";
             this.txtBairro.Size = new System.Drawing.Size(303, 21);
             this.txtBairro.TabIndex = 30;
@@ -592,12 +514,7 @@
             // txtFantasia
             // 
             this.txtFantasia.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtFantasia.Location = new System.Drawing.Point(1006, 53);
-=======
-            this.txtFantasia.Location = new System.Drawing.Point(1341, 65);
-            this.txtFantasia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtFantasia.Name = "txtFantasia";
             this.txtFantasia.Size = new System.Drawing.Size(226, 21);
             this.txtFantasia.TabIndex = 8;
@@ -608,12 +525,7 @@
             this.mskDataCadastro.BackColor = System.Drawing.Color.Gainsboro;
             this.mskDataCadastro.Enabled = false;
             this.mskDataCadastro.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskDataCadastro.Location = new System.Drawing.Point(263, 6);
-=======
-            this.mskDataCadastro.Location = new System.Drawing.Point(351, 7);
-            this.mskDataCadastro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskDataCadastro.Mask = "00/00/0000 90:00";
             this.mskDataCadastro.Name = "mskDataCadastro";
             this.mskDataCadastro.Size = new System.Drawing.Size(130, 21);
@@ -644,12 +556,7 @@
             // txtComplemento
             // 
             this.txtComplemento.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtComplemento.Location = new System.Drawing.Point(953, 146);
-=======
-            this.txtComplemento.Location = new System.Drawing.Point(1271, 180);
-            this.txtComplemento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtComplemento.Name = "txtComplemento";
             this.txtComplemento.Size = new System.Drawing.Size(276, 21);
             this.txtComplemento.TabIndex = 28;
@@ -660,12 +567,7 @@
             this.txtCidade.Enabled = false;
             this.txtCidade.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCidade.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtCidade.Location = new System.Drawing.Point(314, 194);
-=======
-            this.txtCidade.Location = new System.Drawing.Point(419, 239);
-            this.txtCidade.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtCidade.Name = "txtCidade";
             this.txtCidade.Size = new System.Drawing.Size(507, 21);
             this.txtCidade.TabIndex = 32;
@@ -697,12 +599,7 @@
             this.txtUF.Enabled = false;
             this.txtUF.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUF.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtUF.Location = new System.Drawing.Point(825, 194);
-=======
-            this.txtUF.Location = new System.Drawing.Point(1100, 239);
-            this.txtUF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtUF.Name = "txtUF";
             this.txtUF.Size = new System.Drawing.Size(46, 21);
             this.txtUF.TabIndex = 34;
@@ -721,12 +618,7 @@
             // txtNumero
             // 
             this.txtNumero.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtNumero.Location = new System.Drawing.Point(878, 146);
-=======
-            this.txtNumero.Location = new System.Drawing.Point(1171, 180);
-            this.txtNumero.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtNumero.Name = "txtNumero";
             this.txtNumero.Size = new System.Drawing.Size(70, 21);
             this.txtNumero.TabIndex = 26;
@@ -751,12 +643,7 @@
             this.pnlTopo.Controls.Add(this.mskDataCadastro);
             this.pnlTopo.Controls.Add(this.label13);
             this.pnlTopo.ForeColor = System.Drawing.SystemColors.ControlText;
-<<<<<<< HEAD
             this.pnlTopo.Location = new System.Drawing.Point(5, 0);
-=======
-            this.pnlTopo.Location = new System.Drawing.Point(7, 0);
-            this.pnlTopo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.pnlTopo.Name = "pnlTopo";
             this.pnlTopo.Size = new System.Drawing.Size(735, 33);
             this.pnlTopo.TabIndex = 0;
@@ -766,12 +653,7 @@
             this.txtID.BackColor = System.Drawing.Color.Gainsboro;
             this.txtID.Enabled = false;
             this.txtID.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtID.Location = new System.Drawing.Point(50, 6);
-=======
-            this.txtID.Location = new System.Drawing.Point(67, 7);
-            this.txtID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtID.Name = "txtID";
             this.txtID.Size = new System.Drawing.Size(81, 21);
             this.txtID.TabIndex = 1;
@@ -792,12 +674,7 @@
             this.txtCadastradoPor.BackColor = System.Drawing.Color.Gainsboro;
             this.txtCadastradoPor.Enabled = false;
             this.txtCadastradoPor.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtCadastradoPor.Location = new System.Drawing.Point(518, 6);
-=======
-            this.txtCadastradoPor.Location = new System.Drawing.Point(691, 7);
-            this.txtCadastradoPor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtCadastradoPor.Name = "txtCadastradoPor";
             this.txtCadastradoPor.Size = new System.Drawing.Size(205, 21);
             this.txtCadastradoPor.TabIndex = 5;
@@ -809,12 +686,7 @@
             this.txtMassorRegiao.Enabled = false;
             this.txtMassorRegiao.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMassorRegiao.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtMassorRegiao.Location = new System.Drawing.Point(5, 242);
-=======
-            this.txtMassorRegiao.Location = new System.Drawing.Point(7, 298);
-            this.txtMassorRegiao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtMassorRegiao.Name = "txtMassorRegiao";
             this.txtMassorRegiao.Size = new System.Drawing.Size(303, 21);
             this.txtMassorRegiao.TabIndex = 38;
@@ -835,12 +707,7 @@
             this.txtMicroRegiao.BackColor = System.Drawing.Color.Gainsboro;
             this.txtMicroRegiao.Enabled = false;
             this.txtMicroRegiao.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtMicroRegiao.Location = new System.Drawing.Point(314, 242);
-=======
-            this.txtMicroRegiao.Location = new System.Drawing.Point(419, 298);
-            this.txtMicroRegiao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtMicroRegiao.Name = "txtMicroRegiao";
             this.txtMicroRegiao.Size = new System.Drawing.Size(437, 21);
             this.txtMicroRegiao.TabIndex = 40;
@@ -872,12 +739,7 @@
             this.txtTipoEndereco.Enabled = false;
             this.txtTipoEndereco.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTipoEndereco.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtTipoEndereco.Location = new System.Drawing.Point(128, 146);
-=======
-            this.txtTipoEndereco.Location = new System.Drawing.Point(171, 180);
-            this.txtTipoEndereco.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtTipoEndereco.Name = "txtTipoEndereco";
             this.txtTipoEndereco.Size = new System.Drawing.Size(28, 21);
             this.txtTipoEndereco.TabIndex = 20;
@@ -896,12 +758,7 @@
             // mskEmail
             // 
             this.mskEmail.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskEmail.Location = new System.Drawing.Point(586, 103);
-=======
-            this.mskEmail.Location = new System.Drawing.Point(781, 127);
-            this.mskEmail.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskEmail.Name = "mskEmail";
             this.mskEmail.Size = new System.Drawing.Size(319, 21);
             this.mskEmail.TabIndex = 10;
@@ -920,12 +777,7 @@
             // mskTelefone
             // 
             this.mskTelefone.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskTelefone.Location = new System.Drawing.Point(916, 103);
-=======
-            this.mskTelefone.Location = new System.Drawing.Point(1221, 127);
-            this.mskTelefone.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskTelefone.Mask = "(99) 9999-9999";
             this.mskTelefone.Name = "mskTelefone";
             this.mskTelefone.Size = new System.Drawing.Size(110, 21);
@@ -945,12 +797,7 @@
             // mskCelular
             // 
             this.mskCelular.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCelular.Location = new System.Drawing.Point(1038, 103);
-=======
-            this.mskCelular.Location = new System.Drawing.Point(1384, 127);
-            this.mskCelular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCelular.Mask = "(99) 99999-9999";
             this.mskCelular.Name = "mskCelular";
             this.mskCelular.Size = new System.Drawing.Size(122, 21);
@@ -963,12 +810,7 @@
             this.chkWhatsApp.CheckAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.chkWhatsApp.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkWhatsApp.Image = ((System.Drawing.Image)(resources.GetObject("chkWhatsApp.Image")));
-<<<<<<< HEAD
             this.chkWhatsApp.Location = new System.Drawing.Point(1162, 83);
-=======
-            this.chkWhatsApp.Location = new System.Drawing.Point(1549, 102);
-            this.chkWhatsApp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkWhatsApp.Name = "chkWhatsApp";
             this.chkWhatsApp.Size = new System.Drawing.Size(32, 46);
             this.chkWhatsApp.TabIndex = 15;
@@ -980,12 +822,7 @@
             this.tbcInfo.Controls.Add(this.tbpInfo_Juridica);
             this.tbcInfo.Controls.Add(this.tbpInfo_Administrador);
             this.tbcInfo.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.tbcInfo.Location = new System.Drawing.Point(5, 275);
-=======
-            this.tbcInfo.Location = new System.Drawing.Point(7, 338);
-            this.tbcInfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.tbcInfo.Name = "tbcInfo";
             this.tbcInfo.SelectedIndex = 0;
             this.tbcInfo.Size = new System.Drawing.Size(1226, 240);
@@ -1010,18 +847,10 @@
             this.tbpInfo_Fisica.Controls.Add(this.label38);
             this.tbpInfo_Fisica.Controls.Add(this.label30);
             this.tbpInfo_Fisica.Controls.Add(this.cboEstadoCivil);
-<<<<<<< HEAD
             this.tbpInfo_Fisica.Location = new System.Drawing.Point(4, 21);
             this.tbpInfo_Fisica.Name = "tbpInfo_Fisica";
-            this.tbpInfo_Fisica.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpInfo_Fisica.Padding = new System.Windows.Forms.Padding(3);
             this.tbpInfo_Fisica.Size = new System.Drawing.Size(1218, 215);
-=======
-            this.tbpInfo_Fisica.Location = new System.Drawing.Point(4, 25);
-            this.tbpInfo_Fisica.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Fisica.Name = "tbpInfo_Fisica";
-            this.tbpInfo_Fisica.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Fisica.Size = new System.Drawing.Size(1627, 266);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpInfo_Fisica.TabIndex = 0;
             this.tbpInfo_Fisica.Tag = "Dados Pessoa Física";
             this.tbpInfo_Fisica.Text = "Física";
@@ -1054,12 +883,7 @@
             this.pnlConjuge.Controls.Add(this.label29);
             this.pnlConjuge.Controls.Add(this.txtNomeConj);
             this.pnlConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.pnlConjuge.Location = new System.Drawing.Point(5, 88);
-=======
-            this.pnlConjuge.Location = new System.Drawing.Point(7, 108);
-            this.pnlConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.pnlConjuge.Name = "pnlConjuge";
             this.pnlConjuge.Size = new System.Drawing.Size(1208, 109);
             this.pnlConjuge.TabIndex = 14;
@@ -1067,12 +891,7 @@
             // mskEmailConjuge
             // 
             this.mskEmailConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskEmailConjuge.Location = new System.Drawing.Point(989, 75);
-=======
-            this.mskEmailConjuge.Location = new System.Drawing.Point(1319, 92);
-            this.mskEmailConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskEmailConjuge.Name = "mskEmailConjuge";
             this.mskEmailConjuge.Size = new System.Drawing.Size(206, 21);
             this.mskEmailConjuge.TabIndex = 14;
@@ -1101,12 +920,7 @@
             // txtLocalRendaExtraConjuge
             // 
             this.txtLocalRendaExtraConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtLocalRendaExtraConjuge.Location = new System.Drawing.Point(740, 75);
-=======
-            this.txtLocalRendaExtraConjuge.Location = new System.Drawing.Point(987, 92);
-            this.txtLocalRendaExtraConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtLocalRendaExtraConjuge.Name = "txtLocalRendaExtraConjuge";
             this.txtLocalRendaExtraConjuge.Size = new System.Drawing.Size(241, 21);
             this.txtLocalRendaExtraConjuge.TabIndex = 24;
@@ -1114,12 +928,7 @@
             // txtDataAdmissaoConjuge
             // 
             this.txtDataAdmissaoConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtDataAdmissaoConjuge.Location = new System.Drawing.Point(392, 75);
-=======
-            this.txtDataAdmissaoConjuge.Location = new System.Drawing.Point(523, 92);
-            this.txtDataAdmissaoConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtDataAdmissaoConjuge.Mask = "00/00/0000";
             this.txtDataAdmissaoConjuge.Name = "txtDataAdmissaoConjuge";
             this.txtDataAdmissaoConjuge.Size = new System.Drawing.Size(102, 21);
@@ -1139,12 +948,7 @@
             // mskRendaExtraConjuge
             // 
             this.mskRendaExtraConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskRendaExtraConjuge.Location = new System.Drawing.Point(632, 75);
-=======
-            this.mskRendaExtraConjuge.Location = new System.Drawing.Point(843, 92);
-            this.mskRendaExtraConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskRendaExtraConjuge.Mask = "99,999,999.99";
             this.mskRendaExtraConjuge.Name = "mskRendaExtraConjuge";
             this.mskRendaExtraConjuge.Size = new System.Drawing.Size(102, 21);
@@ -1174,12 +978,7 @@
             // txtLocalTrabConjuge
             // 
             this.txtLocalTrabConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtLocalTrabConjuge.Location = new System.Drawing.Point(5, 75);
-=======
-            this.txtLocalTrabConjuge.Location = new System.Drawing.Point(7, 92);
-            this.txtLocalTrabConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtLocalTrabConjuge.Name = "txtLocalTrabConjuge";
             this.txtLocalTrabConjuge.Size = new System.Drawing.Size(377, 21);
             this.txtLocalTrabConjuge.TabIndex = 16;
@@ -1187,12 +986,7 @@
             // mskSalarioConjuge
             // 
             this.mskSalarioConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSalarioConjuge.Location = new System.Drawing.Point(506, 75);
-=======
-            this.mskSalarioConjuge.Location = new System.Drawing.Point(675, 92);
-            this.mskSalarioConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSalarioConjuge.Mask = "99,999,999.99";
             this.mskSalarioConjuge.Name = "mskSalarioConjuge";
             this.mskSalarioConjuge.Size = new System.Drawing.Size(102, 21);
@@ -1221,12 +1015,7 @@
             // mskRGConjuge
             // 
             this.mskRGConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskRGConjuge.Location = new System.Drawing.Point(629, 23);
-=======
-            this.mskRGConjuge.Location = new System.Drawing.Point(839, 28);
-            this.mskRGConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskRGConjuge.Name = "mskRGConjuge";
             this.mskRGConjuge.Size = new System.Drawing.Size(91, 21);
             this.mskRGConjuge.TabIndex = 7;
@@ -1234,12 +1023,7 @@
             // mskCPFConjuge
             // 
             this.mskCPFConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCPFConjuge.Location = new System.Drawing.Point(503, 23);
-=======
-            this.mskCPFConjuge.Location = new System.Drawing.Point(671, 28);
-            this.mskCPFConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCPFConjuge.Mask = "999,999,999-99";
             this.mskCPFConjuge.Name = "mskCPFConjuge";
             this.mskCPFConjuge.Size = new System.Drawing.Size(119, 21);
@@ -1260,12 +1044,7 @@
             this.chkWhatsAppConjuge.AutoSize = true;
             this.chkWhatsAppConjuge.CheckAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.chkWhatsAppConjuge.Image = ((System.Drawing.Image)(resources.GetObject("chkWhatsAppConjuge.Image")));
-<<<<<<< HEAD
             this.chkWhatsAppConjuge.Location = new System.Drawing.Point(960, 2);
-=======
-            this.chkWhatsAppConjuge.Location = new System.Drawing.Point(1280, 2);
-            this.chkWhatsAppConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkWhatsAppConjuge.Name = "chkWhatsAppConjuge";
             this.chkWhatsAppConjuge.Size = new System.Drawing.Size(32, 46);
             this.chkWhatsAppConjuge.TabIndex = 12;
@@ -1274,12 +1053,7 @@
             // mskCelularConjuge
             // 
             this.mskCelularConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCelularConjuge.Location = new System.Drawing.Point(837, 23);
-=======
-            this.mskCelularConjuge.Location = new System.Drawing.Point(1116, 28);
-            this.mskCelularConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCelularConjuge.Mask = "(99) 99999-9999";
             this.mskCelularConjuge.Name = "mskCelularConjuge";
             this.mskCelularConjuge.Size = new System.Drawing.Size(122, 21);
@@ -1288,12 +1062,7 @@
             // mskTelefoneConjuge
             // 
             this.mskTelefoneConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskTelefoneConjuge.Location = new System.Drawing.Point(726, 23);
-=======
-            this.mskTelefoneConjuge.Location = new System.Drawing.Point(968, 28);
-            this.mskTelefoneConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskTelefoneConjuge.Mask = "(99) 9999-9999";
             this.mskTelefoneConjuge.Name = "mskTelefoneConjuge";
             this.mskTelefoneConjuge.Size = new System.Drawing.Size(105, 21);
@@ -1322,12 +1091,7 @@
             // mskDataNascimentoConjuge
             // 
             this.mskDataNascimentoConjuge.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskDataNascimentoConjuge.Location = new System.Drawing.Point(391, 23);
-=======
-            this.mskDataNascimentoConjuge.Location = new System.Drawing.Point(521, 28);
-            this.mskDataNascimentoConjuge.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskDataNascimentoConjuge.Mask = "99/99/9999";
             this.mskDataNascimentoConjuge.Name = "mskDataNascimentoConjuge";
             this.mskDataNascimentoConjuge.Size = new System.Drawing.Size(104, 21);
@@ -1357,12 +1121,7 @@
             // txtNomeConj
             // 
             this.txtNomeConj.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtNomeConj.Location = new System.Drawing.Point(5, 23);
-=======
-            this.txtNomeConj.Location = new System.Drawing.Point(7, 28);
-            this.txtNomeConj.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtNomeConj.Name = "txtNomeConj";
             this.txtNomeConj.Size = new System.Drawing.Size(377, 21);
             this.txtNomeConj.TabIndex = 1;
@@ -1380,12 +1139,7 @@
             // txtLocalRendaExtra
             // 
             this.txtLocalRendaExtra.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtLocalRendaExtra.Location = new System.Drawing.Point(851, 28);
-=======
-            this.txtLocalRendaExtra.Location = new System.Drawing.Point(1135, 34);
-            this.txtLocalRendaExtra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtLocalRendaExtra.Name = "txtLocalRendaExtra";
             this.txtLocalRendaExtra.Size = new System.Drawing.Size(363, 21);
             this.txtLocalRendaExtra.TabIndex = 11;
@@ -1393,12 +1147,7 @@
             // txtDataAdmissao
             // 
             this.txtDataAdmissao.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtDataAdmissao.Location = new System.Drawing.Point(475, 28);
-=======
-            this.txtDataAdmissao.Location = new System.Drawing.Point(633, 34);
-            this.txtDataAdmissao.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtDataAdmissao.Mask = "00/00/0000";
             this.txtDataAdmissao.Name = "txtDataAdmissao";
             this.txtDataAdmissao.Size = new System.Drawing.Size(102, 21);
@@ -1418,12 +1167,7 @@
             // mskRendaExtra
             // 
             this.mskRendaExtra.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskRendaExtra.Location = new System.Drawing.Point(724, 28);
-=======
-            this.mskRendaExtra.Location = new System.Drawing.Point(965, 34);
-            this.mskRendaExtra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskRendaExtra.Mask = "99,999,999.99";
             this.mskRendaExtra.Name = "mskRendaExtra";
             this.mskRendaExtra.Size = new System.Drawing.Size(102, 21);
@@ -1452,12 +1196,7 @@
             // txtLocalTrabalho
             // 
             this.txtLocalTrabalho.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtLocalTrabalho.Location = new System.Drawing.Point(118, 28);
-=======
-            this.txtLocalTrabalho.Location = new System.Drawing.Point(157, 34);
-            this.txtLocalTrabalho.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtLocalTrabalho.Name = "txtLocalTrabalho";
             this.txtLocalTrabalho.Size = new System.Drawing.Size(338, 21);
             this.txtLocalTrabalho.TabIndex = 3;
@@ -1466,12 +1205,7 @@
             // mskSalario
             // 
             this.mskSalario.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSalario.Location = new System.Drawing.Point(599, 28);
-=======
-            this.mskSalario.Location = new System.Drawing.Point(799, 34);
-            this.mskSalario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSalario.Mask = "99,999,999.99";
             this.mskSalario.Name = "mskSalario";
             this.mskSalario.Size = new System.Drawing.Size(102, 21);
@@ -1500,12 +1234,7 @@
             // mskDataNascimento
             // 
             this.mskDataNascimento.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskDataNascimento.Location = new System.Drawing.Point(5, 28);
-=======
-            this.mskDataNascimento.Location = new System.Drawing.Point(7, 34);
-            this.mskDataNascimento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskDataNascimento.Mask = "99/99/9999";
             this.mskDataNascimento.Name = "mskDataNascimento";
             this.mskDataNascimento.Size = new System.Drawing.Size(98, 21);
@@ -1544,12 +1273,7 @@
             "Separado judicialmente",
             "Solteiro (a)",
             "Viúvo (a)"});
-<<<<<<< HEAD
             this.cboEstadoCivil.Location = new System.Drawing.Point(82, 68);
-=======
-            this.cboEstadoCivil.Location = new System.Drawing.Point(109, 84);
-            this.cboEstadoCivil.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.cboEstadoCivil.Name = "cboEstadoCivil";
             this.cboEstadoCivil.Size = new System.Drawing.Size(167, 21);
             this.cboEstadoCivil.TabIndex = 13;
@@ -1595,18 +1319,10 @@
             this.tbpInfo_Juridica.Controls.Add(this.mskDataAberturaEmpresa);
             this.tbpInfo_Juridica.Controls.Add(this.label39);
             this.tbpInfo_Juridica.Controls.Add(this.label25);
-<<<<<<< HEAD
             this.tbpInfo_Juridica.Location = new System.Drawing.Point(4, 21);
             this.tbpInfo_Juridica.Name = "tbpInfo_Juridica";
-            this.tbpInfo_Juridica.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpInfo_Juridica.Padding = new System.Windows.Forms.Padding(3);
             this.tbpInfo_Juridica.Size = new System.Drawing.Size(1218, 215);
-=======
-            this.tbpInfo_Juridica.Location = new System.Drawing.Point(4, 25);
-            this.tbpInfo_Juridica.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Juridica.Name = "tbpInfo_Juridica";
-            this.tbpInfo_Juridica.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Juridica.Size = new System.Drawing.Size(1627, 266);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpInfo_Juridica.TabIndex = 1;
             this.tbpInfo_Juridica.Tag = "Dados Pessoa Juridica";
             this.tbpInfo_Juridica.Text = "Jurídica";
@@ -1615,12 +1331,7 @@
             // 
             this.chkSuframa.AutoSize = true;
             this.chkSuframa.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkSuframa.Location = new System.Drawing.Point(383, 60);
-=======
-            this.chkSuframa.Location = new System.Drawing.Point(511, 74);
-            this.chkSuframa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkSuframa.Name = "chkSuframa";
             this.chkSuframa.Size = new System.Drawing.Size(78, 21);
             this.chkSuframa.TabIndex = 57;
@@ -1659,12 +1370,7 @@
             "Material Elétrico",
             "Outros",
             "Roupa, Calçado e Similar"});
-<<<<<<< HEAD
             this.cboTipoNegocio.Location = new System.Drawing.Point(7, 27);
-=======
-            this.cboTipoNegocio.Location = new System.Drawing.Point(9, 33);
-            this.cboTipoNegocio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.cboTipoNegocio.Name = "cboTipoNegocio";
             this.cboTipoNegocio.Size = new System.Drawing.Size(277, 21);
             this.cboTipoNegocio.Sorted = true;
@@ -1673,12 +1379,7 @@
             // txtRegiaoSuframa
             // 
             this.txtRegiaoSuframa.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtRegiaoSuframa.Location = new System.Drawing.Point(383, 82);
-=======
-            this.txtRegiaoSuframa.Location = new System.Drawing.Point(511, 101);
-            this.txtRegiaoSuframa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtRegiaoSuframa.Name = "txtRegiaoSuframa";
             this.txtRegiaoSuframa.Size = new System.Drawing.Size(118, 21);
             this.txtRegiaoSuframa.TabIndex = 7;
@@ -1686,12 +1387,7 @@
             // txtSocio1Nome
             // 
             this.txtSocio1Nome.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtSocio1Nome.Location = new System.Drawing.Point(7, 136);
-=======
-            this.txtSocio1Nome.Location = new System.Drawing.Point(9, 167);
-            this.txtSocio1Nome.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtSocio1Nome.Name = "txtSocio1Nome";
             this.txtSocio1Nome.Size = new System.Drawing.Size(494, 21);
             this.txtSocio1Nome.TabIndex = 9;
@@ -1699,12 +1395,7 @@
             // txtSocio2Nome
             // 
             this.txtSocio2Nome.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtSocio2Nome.Location = new System.Drawing.Point(11, 185);
-=======
-            this.txtSocio2Nome.Location = new System.Drawing.Point(15, 228);
-            this.txtSocio2Nome.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtSocio2Nome.Name = "txtSocio2Nome";
             this.txtSocio2Nome.Size = new System.Drawing.Size(490, 21);
             this.txtSocio2Nome.TabIndex = 22;
@@ -1712,12 +1403,7 @@
             // txtHTTP
             // 
             this.txtHTTP.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.txtHTTP.Location = new System.Drawing.Point(512, 82);
-=======
-            this.txtHTTP.Location = new System.Drawing.Point(683, 101);
-            this.txtHTTP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtHTTP.Name = "txtHTTP";
             this.txtHTTP.Size = new System.Drawing.Size(428, 21);
             this.txtHTTP.TabIndex = 33;
@@ -1725,12 +1411,7 @@
             // mskSAC
             // 
             this.mskSAC.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSAC.Location = new System.Drawing.Point(272, 82);
-=======
-            this.mskSAC.Location = new System.Drawing.Point(363, 101);
-            this.mskSAC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSAC.Mask = "9999 999 9999";
             this.mskSAC.Name = "mskSAC";
             this.mskSAC.Size = new System.Drawing.Size(96, 21);
@@ -1753,12 +1434,7 @@
             this.chkSocio2WhatsApp.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkSocio2WhatsApp.Image = ((System.Drawing.Image)(resources.GetObject("chkSocio2WhatsApp.Image")));
             this.chkSocio2WhatsApp.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-<<<<<<< HEAD
             this.chkSocio2WhatsApp.Location = new System.Drawing.Point(1132, 167);
-=======
-            this.chkSocio2WhatsApp.Location = new System.Drawing.Point(1509, 206);
-            this.chkSocio2WhatsApp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkSocio2WhatsApp.Name = "chkSocio2WhatsApp";
             this.chkSocio2WhatsApp.Size = new System.Drawing.Size(32, 46);
             this.chkSocio2WhatsApp.TabIndex = 33;
@@ -1767,12 +1443,7 @@
             // mskSocio2Celular
             // 
             this.mskSocio2Celular.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio2Celular.Location = new System.Drawing.Point(1005, 187);
-=======
-            this.mskSocio2Celular.Location = new System.Drawing.Point(1340, 230);
-            this.mskSocio2Celular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio2Celular.Mask = "(99) 99999-9999";
             this.mskSocio2Celular.Name = "mskSocio2Celular";
             this.mskSocio2Celular.Size = new System.Drawing.Size(122, 21);
@@ -1781,12 +1452,7 @@
             // mskSocio2Telefone
             // 
             this.mskSocio2Telefone.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio2Telefone.Location = new System.Drawing.Point(880, 187);
-=======
-            this.mskSocio2Telefone.Location = new System.Drawing.Point(1173, 230);
-            this.mskSocio2Telefone.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio2Telefone.Mask = "(99) 9999-9999";
             this.mskSocio2Telefone.Name = "mskSocio2Telefone";
             this.mskSocio2Telefone.Size = new System.Drawing.Size(105, 21);
@@ -1819,12 +1485,7 @@
             this.chkSocio1WhatsApp.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkSocio1WhatsApp.Image = ((System.Drawing.Image)(resources.GetObject("chkSocio1WhatsApp.Image")));
             this.chkSocio1WhatsApp.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-<<<<<<< HEAD
             this.chkSocio1WhatsApp.Location = new System.Drawing.Point(1132, 115);
-=======
-            this.chkSocio1WhatsApp.Location = new System.Drawing.Point(1509, 142);
-            this.chkSocio1WhatsApp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkSocio1WhatsApp.Name = "chkSocio1WhatsApp";
             this.chkSocio1WhatsApp.Size = new System.Drawing.Size(32, 46);
             this.chkSocio1WhatsApp.TabIndex = 20;
@@ -1833,12 +1494,7 @@
             // mskSocio1Celular
             // 
             this.mskSocio1Celular.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio1Celular.Location = new System.Drawing.Point(1005, 136);
-=======
-            this.mskSocio1Celular.Location = new System.Drawing.Point(1340, 167);
-            this.mskSocio1Celular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio1Celular.Mask = "(99) 99999-9999";
             this.mskSocio1Celular.Name = "mskSocio1Celular";
             this.mskSocio1Celular.Size = new System.Drawing.Size(122, 21);
@@ -1847,12 +1503,7 @@
             // mskSocio1Telefone
             // 
             this.mskSocio1Telefone.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio1Telefone.Location = new System.Drawing.Point(880, 136);
-=======
-            this.mskSocio1Telefone.Location = new System.Drawing.Point(1173, 167);
-            this.mskSocio1Telefone.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio1Telefone.Mask = "(99) 9999-9999";
             this.mskSocio1Telefone.Name = "mskSocio1Telefone";
             this.mskSocio1Telefone.Size = new System.Drawing.Size(105, 21);
@@ -1901,12 +1552,7 @@
             // mskSocio2RG
             // 
             this.mskSocio2RG.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio2RG.Location = new System.Drawing.Point(644, 187);
-=======
-            this.mskSocio2RG.Location = new System.Drawing.Point(859, 230);
-            this.mskSocio2RG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio2RG.Name = "mskSocio2RG";
             this.mskSocio2RG.Size = new System.Drawing.Size(91, 21);
             this.mskSocio2RG.TabIndex = 26;
@@ -1914,12 +1560,7 @@
             // mskSocio1RG
             // 
             this.mskSocio1RG.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio1RG.Location = new System.Drawing.Point(644, 136);
-=======
-            this.mskSocio1RG.Location = new System.Drawing.Point(859, 167);
-            this.mskSocio1RG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio1RG.Name = "mskSocio1RG";
             this.mskSocio1RG.Size = new System.Drawing.Size(91, 21);
             this.mskSocio1RG.TabIndex = 13;
@@ -1927,12 +1568,7 @@
             // mskSocio2CPF
             // 
             this.mskSocio2CPF.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio2CPF.Location = new System.Drawing.Point(512, 188);
-=======
-            this.mskSocio2CPF.Location = new System.Drawing.Point(683, 231);
-            this.mskSocio2CPF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio2CPF.Mask = "999,999,999-99";
             this.mskSocio2CPF.Name = "mskSocio2CPF";
             this.mskSocio2CPF.Size = new System.Drawing.Size(119, 21);
@@ -1941,12 +1577,7 @@
             // mskSocio1CPF
             // 
             this.mskSocio1CPF.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio1CPF.Location = new System.Drawing.Point(512, 136);
-=======
-            this.mskSocio1CPF.Location = new System.Drawing.Point(683, 167);
-            this.mskSocio1CPF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio1CPF.Mask = "999,999,999-99";
             this.mskSocio1CPF.Name = "mskSocio1CPF";
             this.mskSocio1CPF.Size = new System.Drawing.Size(119, 21);
@@ -1995,12 +1626,7 @@
             // mskSocio2DataNascimento
             // 
             this.mskSocio2DataNascimento.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio2DataNascimento.Location = new System.Drawing.Point(758, 187);
-=======
-            this.mskSocio2DataNascimento.Location = new System.Drawing.Point(1011, 230);
-            this.mskSocio2DataNascimento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio2DataNascimento.Mask = "99/99/9999";
             this.mskSocio2DataNascimento.Name = "mskSocio2DataNascimento";
             this.mskSocio2DataNascimento.Size = new System.Drawing.Size(98, 21);
@@ -2009,12 +1635,7 @@
             // mskSocio1DataNascimento
             // 
             this.mskSocio1DataNascimento.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskSocio1DataNascimento.Location = new System.Drawing.Point(758, 136);
-=======
-            this.mskSocio1DataNascimento.Location = new System.Drawing.Point(1011, 167);
-            this.mskSocio1DataNascimento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskSocio1DataNascimento.Mask = "99/99/9999";
             this.mskSocio1DataNascimento.Name = "mskSocio1DataNascimento";
             this.mskSocio1DataNascimento.Size = new System.Drawing.Size(98, 21);
@@ -2043,12 +1664,7 @@
             // mskCapitalSocial
             // 
             this.mskCapitalSocial.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskCapitalSocial.Location = new System.Drawing.Point(146, 83);
-=======
-            this.mskCapitalSocial.Location = new System.Drawing.Point(195, 102);
-            this.mskCapitalSocial.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskCapitalSocial.Mask = "99,999,999.99";
             this.mskCapitalSocial.Name = "mskCapitalSocial";
             this.mskCapitalSocial.Size = new System.Drawing.Size(109, 21);
@@ -2067,12 +1683,7 @@
             // mskDataAberturaEmpresa
             // 
             this.mskDataAberturaEmpresa.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskDataAberturaEmpresa.Location = new System.Drawing.Point(7, 82);
-=======
-            this.mskDataAberturaEmpresa.Location = new System.Drawing.Point(9, 101);
-            this.mskDataAberturaEmpresa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskDataAberturaEmpresa.Mask = "00/00/0000";
             this.mskDataAberturaEmpresa.Name = "mskDataAberturaEmpresa";
             this.mskDataAberturaEmpresa.Size = new System.Drawing.Size(122, 21);
@@ -2102,18 +1713,10 @@
             // tbpInfo_Administrador
             // 
             this.tbpInfo_Administrador.Controls.Add(this.tbcAdmin);
-<<<<<<< HEAD
             this.tbpInfo_Administrador.Location = new System.Drawing.Point(4, 21);
             this.tbpInfo_Administrador.Name = "tbpInfo_Administrador";
-            this.tbpInfo_Administrador.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpInfo_Administrador.Padding = new System.Windows.Forms.Padding(3);
             this.tbpInfo_Administrador.Size = new System.Drawing.Size(1218, 215);
-=======
-            this.tbpInfo_Administrador.Location = new System.Drawing.Point(4, 25);
-            this.tbpInfo_Administrador.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Administrador.Name = "tbpInfo_Administrador";
-            this.tbpInfo_Administrador.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpInfo_Administrador.Size = new System.Drawing.Size(1627, 266);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpInfo_Administrador.TabIndex = 2;
             this.tbpInfo_Administrador.Tag = "Dados Administrador";
             this.tbpInfo_Administrador.Text = "Administrador";
@@ -2125,12 +1728,7 @@
             this.tbcAdmin.Controls.Add(this.tbpAdmin_Habas2);
             this.tbcAdmin.Controls.Add(this.tbpAdmin_Habas3);
             this.tbcAdmin.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.tbcAdmin.Location = new System.Drawing.Point(5, 11);
-=======
-            this.tbcAdmin.Location = new System.Drawing.Point(7, 14);
-            this.tbcAdmin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.tbcAdmin.Name = "tbcAdmin";
             this.tbcAdmin.SelectedIndex = 0;
             this.tbcAdmin.Size = new System.Drawing.Size(1208, 200);
@@ -2146,18 +1744,10 @@
             this.tbpAdmin_Habas1.Controls.Add(this.label69);
             this.tbpAdmin_Habas1.Controls.Add(this.cboSituacaoCadastroEmpresa);
             this.tbpAdmin_Habas1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-<<<<<<< HEAD
             this.tbpAdmin_Habas1.Location = new System.Drawing.Point(4, 21);
             this.tbpAdmin_Habas1.Name = "tbpAdmin_Habas1";
-            this.tbpAdmin_Habas1.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpAdmin_Habas1.Padding = new System.Windows.Forms.Padding(3);
             this.tbpAdmin_Habas1.Size = new System.Drawing.Size(1200, 175);
-=======
-            this.tbpAdmin_Habas1.Location = new System.Drawing.Point(4, 25);
-            this.tbpAdmin_Habas1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas1.Name = "tbpAdmin_Habas1";
-            this.tbpAdmin_Habas1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas1.Size = new System.Drawing.Size(1603, 217);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpAdmin_Habas1.TabIndex = 0;
             this.tbpAdmin_Habas1.Text = "Liberação de Venda";
             // 
@@ -2181,12 +1771,7 @@
             this.pnlDisponivelEm.Controls.Add(this.chkContasPagar);
             this.pnlDisponivelEm.Controls.Add(this.chkContasReceber);
             this.pnlDisponivelEm.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.pnlDisponivelEm.Location = new System.Drawing.Point(567, 72);
-=======
-            this.pnlDisponivelEm.Location = new System.Drawing.Point(756, 89);
-            this.pnlDisponivelEm.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.pnlDisponivelEm.Name = "pnlDisponivelEm";
             this.pnlDisponivelEm.Size = new System.Drawing.Size(444, 35);
             this.pnlDisponivelEm.TabIndex = 8;
@@ -2195,12 +1780,7 @@
             // 
             this.chkRH.AutoSize = true;
             this.chkRH.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkRH.Location = new System.Drawing.Point(246, 6);
-=======
-            this.chkRH.Location = new System.Drawing.Point(328, 7);
-            this.chkRH.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkRH.Name = "chkRH";
             this.chkRH.Size = new System.Drawing.Size(157, 17);
             this.chkRH.TabIndex = 3;
@@ -2212,12 +1792,7 @@
             this.chkContasPagar.AutoSize = true;
             this.chkContasPagar.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkContasPagar.ForeColor = System.Drawing.Color.Black;
-<<<<<<< HEAD
             this.chkContasPagar.Location = new System.Drawing.Point(134, 6);
-=======
-            this.chkContasPagar.Location = new System.Drawing.Point(179, 7);
-            this.chkContasPagar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkContasPagar.Name = "chkContasPagar";
             this.chkContasPagar.Size = new System.Drawing.Size(111, 17);
             this.chkContasPagar.TabIndex = 2;
@@ -2229,12 +1804,7 @@
             this.chkContasReceber.AutoSize = true;
             this.chkContasReceber.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkContasReceber.ForeColor = System.Drawing.Color.Black;
-<<<<<<< HEAD
             this.chkContasReceber.Location = new System.Drawing.Point(10, 6);
-=======
-            this.chkContasReceber.Location = new System.Drawing.Point(13, 7);
-            this.chkContasReceber.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkContasReceber.Name = "chkContasReceber";
             this.chkContasReceber.Size = new System.Drawing.Size(125, 17);
             this.chkContasReceber.TabIndex = 1;
@@ -2263,12 +1833,7 @@
             this.pnlTpCad.Controls.Add(this.chkFornecedor);
             this.pnlTpCad.Controls.Add(this.chkCliente);
             this.pnlTpCad.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-<<<<<<< HEAD
             this.pnlTpCad.Location = new System.Drawing.Point(6, 72);
-=======
-            this.pnlTpCad.Location = new System.Drawing.Point(8, 89);
-            this.pnlTpCad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.pnlTpCad.Name = "pnlTpCad";
             this.pnlTpCad.Size = new System.Drawing.Size(583, 36);
             this.pnlTpCad.TabIndex = 6;
@@ -2276,12 +1841,7 @@
             // mskLimiteCredito
             // 
             this.mskLimiteCredito.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.mskLimiteCredito.Location = new System.Drawing.Point(182, 6);
-=======
-            this.mskLimiteCredito.Location = new System.Drawing.Point(243, 7);
-            this.mskLimiteCredito.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.mskLimiteCredito.Mask = "99,999,999.99";
             this.mskLimiteCredito.Name = "mskLimiteCredito";
             this.mskLimiteCredito.Size = new System.Drawing.Size(118, 21);
@@ -2301,12 +1861,7 @@
             // 
             this.chkTransportadora.AutoSize = true;
             this.chkTransportadora.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkTransportadora.Location = new System.Drawing.Point(432, 6);
-=======
-            this.chkTransportadora.Location = new System.Drawing.Point(576, 7);
-            this.chkTransportadora.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkTransportadora.Name = "chkTransportadora";
             this.chkTransportadora.Size = new System.Drawing.Size(122, 21);
             this.chkTransportadora.TabIndex = 3;
@@ -2317,12 +1872,7 @@
             // 
             this.chkFornecedor.AutoSize = true;
             this.chkFornecedor.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkFornecedor.Location = new System.Drawing.Point(338, 6);
-=======
-            this.chkFornecedor.Location = new System.Drawing.Point(451, 7);
-            this.chkFornecedor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkFornecedor.Name = "chkFornecedor";
             this.chkFornecedor.Size = new System.Drawing.Size(97, 21);
             this.chkFornecedor.TabIndex = 2;
@@ -2333,12 +1883,7 @@
             // 
             this.chkCliente.AutoSize = true;
             this.chkCliente.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkCliente.Location = new System.Drawing.Point(10, 6);
-=======
-            this.chkCliente.Location = new System.Drawing.Point(13, 7);
-            this.chkCliente.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkCliente.Name = "chkCliente";
             this.chkCliente.Size = new System.Drawing.Size(67, 21);
             this.chkCliente.TabIndex = 1;
@@ -2366,12 +1911,7 @@
             "Ativa",
             "Inativa ",
             "Restrita"});
-<<<<<<< HEAD
             this.cboSituacaoCadastroEmpresa.Location = new System.Drawing.Point(132, 17);
-=======
-            this.cboSituacaoCadastroEmpresa.Location = new System.Drawing.Point(176, 21);
-            this.cboSituacaoCadastroEmpresa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.cboSituacaoCadastroEmpresa.Name = "cboSituacaoCadastroEmpresa";
             this.cboSituacaoCadastroEmpresa.Size = new System.Drawing.Size(240, 21);
             this.cboSituacaoCadastroEmpresa.Sorted = true;
@@ -2380,18 +1920,10 @@
             // tbpAdmin_Habas2
             // 
             this.tbpAdmin_Habas2.Controls.Add(this.chkObservacaoGeral);
-<<<<<<< HEAD
             this.tbpAdmin_Habas2.Location = new System.Drawing.Point(4, 21);
             this.tbpAdmin_Habas2.Name = "tbpAdmin_Habas2";
-            this.tbpAdmin_Habas2.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpAdmin_Habas2.Padding = new System.Windows.Forms.Padding(3);
             this.tbpAdmin_Habas2.Size = new System.Drawing.Size(1200, 175);
-=======
-            this.tbpAdmin_Habas2.Location = new System.Drawing.Point(4, 25);
-            this.tbpAdmin_Habas2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas2.Name = "tbpAdmin_Habas2";
-            this.tbpAdmin_Habas2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas2.Size = new System.Drawing.Size(1603, 217);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpAdmin_Habas2.TabIndex = 1;
             this.tbpAdmin_Habas2.Text = "Observações Livres";
             this.tbpAdmin_Habas2.UseVisualStyleBackColor = true;
@@ -2400,12 +1932,7 @@
             // 
             this.chkObservacaoGeral.BackColor = System.Drawing.SystemColors.Control;
             this.chkObservacaoGeral.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.chkObservacaoGeral.Location = new System.Drawing.Point(5, 12);
-=======
-            this.chkObservacaoGeral.Location = new System.Drawing.Point(7, 15);
-            this.chkObservacaoGeral.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkObservacaoGeral.Multiline = true;
             this.chkObservacaoGeral.Name = "chkObservacaoGeral";
             this.chkObservacaoGeral.Size = new System.Drawing.Size(1190, 155);
@@ -2414,18 +1941,10 @@
             // tbpAdmin_Habas3
             // 
             this.tbpAdmin_Habas3.Controls.Add(this.chkObservacaoRestrita);
-<<<<<<< HEAD
             this.tbpAdmin_Habas3.Location = new System.Drawing.Point(4, 21);
             this.tbpAdmin_Habas3.Name = "tbpAdmin_Habas3";
-            this.tbpAdmin_Habas3.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tbpAdmin_Habas3.Padding = new System.Windows.Forms.Padding(3);
             this.tbpAdmin_Habas3.Size = new System.Drawing.Size(1200, 175);
-=======
-            this.tbpAdmin_Habas3.Location = new System.Drawing.Point(4, 25);
-            this.tbpAdmin_Habas3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas3.Name = "tbpAdmin_Habas3";
-            this.tbpAdmin_Habas3.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.tbpAdmin_Habas3.Size = new System.Drawing.Size(1603, 217);
->>>>>>> parent of 40d2fb4... cliente
             this.tbpAdmin_Habas3.TabIndex = 2;
             this.tbpAdmin_Habas3.Text = "Observações Restritas";
             this.tbpAdmin_Habas3.UseVisualStyleBackColor = true;
@@ -2435,12 +1954,7 @@
             this.chkObservacaoRestrita.BackColor = System.Drawing.Color.OldLace;
             this.chkObservacaoRestrita.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkObservacaoRestrita.ForeColor = System.Drawing.Color.Maroon;
-<<<<<<< HEAD
             this.chkObservacaoRestrita.Location = new System.Drawing.Point(5, 12);
-=======
-            this.chkObservacaoRestrita.Location = new System.Drawing.Point(7, 15);
-            this.chkObservacaoRestrita.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.chkObservacaoRestrita.Multiline = true;
             this.chkObservacaoRestrita.Name = "chkObservacaoRestrita";
             this.chkObservacaoRestrita.Size = new System.Drawing.Size(1190, 155);
@@ -2451,12 +1965,7 @@
             this.btnBuscaCEP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuscaCEP.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBuscaCEP.Image = ((System.Drawing.Image)(resources.GetObject("btnBuscaCEP.Image")));
-<<<<<<< HEAD
             this.btnBuscaCEP.Location = new System.Drawing.Point(91, 144);
-=======
-            this.btnBuscaCEP.Location = new System.Drawing.Point(121, 177);
-            this.btnBuscaCEP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.btnBuscaCEP.Name = "btnBuscaCEP";
             this.btnBuscaCEP.Size = new System.Drawing.Size(27, 23);
             this.btnBuscaCEP.TabIndex = 18;
@@ -2479,12 +1988,7 @@
             this.txtDistrito.Enabled = false;
             this.txtDistrito.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDistrito.ForeColor = System.Drawing.Color.White;
-<<<<<<< HEAD
             this.txtDistrito.Location = new System.Drawing.Point(878, 194);
-=======
-            this.txtDistrito.Location = new System.Drawing.Point(1171, 239);
-            this.txtDistrito.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.txtDistrito.Name = "txtDistrito";
             this.txtDistrito.Size = new System.Drawing.Size(351, 21);
             this.txtDistrito.TabIndex = 36;
@@ -2497,12 +2001,7 @@
             this.cboComoNosConheceu.FormattingEnabled = true;
             this.cboComoNosConheceu.Items.AddRange(new object[] {
             "Direto Em Nossa Loja"});
-<<<<<<< HEAD
             this.cboComoNosConheceu.Location = new System.Drawing.Point(872, 12);
-=======
-            this.cboComoNosConheceu.Location = new System.Drawing.Point(1163, 15);
-            this.cboComoNosConheceu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.cboComoNosConheceu.Name = "cboComoNosConheceu";
             this.cboComoNosConheceu.Size = new System.Drawing.Size(199, 21);
             this.cboComoNosConheceu.Sorted = true;
@@ -2544,13 +2043,8 @@
             this.btnNovo.IconVisible = true;
             this.btnNovo.IconZoom = 60D;
             this.btnNovo.IsTab = false;
-<<<<<<< HEAD
             this.btnNovo.Location = new System.Drawing.Point(5, 525);
-            this.btnNovo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnNovo.Location = new System.Drawing.Point(7, 646);
-            this.btnNovo.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnNovo.Margin = new System.Windows.Forms.Padding(4);
             this.btnNovo.Name = "btnNovo";
             this.btnNovo.Normalcolor = System.Drawing.Color.Transparent;
             this.btnNovo.OnHovercolor = System.Drawing.Color.Black;
@@ -2586,13 +2080,8 @@
             this.btnSalvar.IconVisible = true;
             this.btnSalvar.IconZoom = 60D;
             this.btnSalvar.IsTab = false;
-<<<<<<< HEAD
             this.btnSalvar.Location = new System.Drawing.Point(149, 525);
-            this.btnSalvar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnSalvar.Location = new System.Drawing.Point(199, 646);
-            this.btnSalvar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnSalvar.Margin = new System.Windows.Forms.Padding(4);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Normalcolor = System.Drawing.Color.Transparent;
             this.btnSalvar.OnHovercolor = System.Drawing.Color.Black;
@@ -2628,13 +2117,8 @@
             this.btnExcluir.IconVisible = true;
             this.btnExcluir.IconZoom = 60D;
             this.btnExcluir.IsTab = false;
-<<<<<<< HEAD
             this.btnExcluir.Location = new System.Drawing.Point(294, 525);
-            this.btnExcluir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnExcluir.Location = new System.Drawing.Point(392, 646);
-            this.btnExcluir.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnExcluir.Margin = new System.Windows.Forms.Padding(4);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Normalcolor = System.Drawing.Color.Transparent;
             this.btnExcluir.OnHovercolor = System.Drawing.Color.Black;
@@ -2670,13 +2154,8 @@
             this.btnCancelar.IconVisible = true;
             this.btnCancelar.IconZoom = 60D;
             this.btnCancelar.IsTab = false;
-<<<<<<< HEAD
             this.btnCancelar.Location = new System.Drawing.Point(440, 525);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnCancelar.Location = new System.Drawing.Point(587, 646);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Normalcolor = System.Drawing.Color.Transparent;
             this.btnCancelar.OnHovercolor = System.Drawing.Color.Black;
@@ -2712,13 +2191,8 @@
             this.btnProcurar.IconVisible = true;
             this.btnProcurar.IconZoom = 60D;
             this.btnProcurar.IsTab = false;
-<<<<<<< HEAD
             this.btnProcurar.Location = new System.Drawing.Point(584, 525);
-            this.btnProcurar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnProcurar.Location = new System.Drawing.Point(779, 646);
-            this.btnProcurar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnProcurar.Margin = new System.Windows.Forms.Padding(4);
             this.btnProcurar.Name = "btnProcurar";
             this.btnProcurar.Normalcolor = System.Drawing.Color.Transparent;
             this.btnProcurar.OnHovercolor = System.Drawing.Color.Black;
@@ -2755,13 +2229,8 @@
             this.btnImprimir.IconVisible = true;
             this.btnImprimir.IconZoom = 60D;
             this.btnImprimir.IsTab = false;
-<<<<<<< HEAD
             this.btnImprimir.Location = new System.Drawing.Point(729, 525);
-            this.btnImprimir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnImprimir.Location = new System.Drawing.Point(972, 646);
-            this.btnImprimir.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnImprimir.Margin = new System.Windows.Forms.Padding(4);
             this.btnImprimir.Name = "btnImprimir";
             this.btnImprimir.Normalcolor = System.Drawing.Color.Transparent;
             this.btnImprimir.OnHovercolor = System.Drawing.Color.Black;
@@ -2797,13 +2266,8 @@
             this.btnSair.IconVisible = true;
             this.btnSair.IconZoom = 60D;
             this.btnSair.IsTab = false;
-<<<<<<< HEAD
             this.btnSair.Location = new System.Drawing.Point(874, 525);
-            this.btnSair.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnSair.Location = new System.Drawing.Point(1165, 646);
-            this.btnSair.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnSair.Margin = new System.Windows.Forms.Padding(4);
             this.btnSair.Name = "btnSair";
             this.btnSair.Normalcolor = System.Drawing.Color.Transparent;
             this.btnSair.OnHovercolor = System.Drawing.Color.Black;
@@ -2839,13 +2303,8 @@
             this.btnPrimeiro.IconVisible = true;
             this.btnPrimeiro.IconZoom = 80D;
             this.btnPrimeiro.IsTab = false;
-<<<<<<< HEAD
             this.btnPrimeiro.Location = new System.Drawing.Point(1025, 525);
-            this.btnPrimeiro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnPrimeiro.Location = new System.Drawing.Point(1367, 646);
-            this.btnPrimeiro.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnPrimeiro.Margin = new System.Windows.Forms.Padding(4);
             this.btnPrimeiro.Name = "btnPrimeiro";
             this.btnPrimeiro.Normalcolor = System.Drawing.Color.Transparent;
             this.btnPrimeiro.OnHovercolor = System.Drawing.Color.Transparent;
@@ -2881,13 +2340,8 @@
             this.btnVoltar.IconVisible = true;
             this.btnVoltar.IconZoom = 80D;
             this.btnVoltar.IsTab = false;
-<<<<<<< HEAD
             this.btnVoltar.Location = new System.Drawing.Point(1076, 525);
-            this.btnVoltar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnVoltar.Location = new System.Drawing.Point(1435, 646);
-            this.btnVoltar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnVoltar.Margin = new System.Windows.Forms.Padding(4);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Normalcolor = System.Drawing.Color.Transparent;
             this.btnVoltar.OnHovercolor = System.Drawing.Color.Transparent;
@@ -2923,13 +2377,8 @@
             this.btnSeguinte.IconVisible = true;
             this.btnSeguinte.IconZoom = 80D;
             this.btnSeguinte.IsTab = false;
-<<<<<<< HEAD
             this.btnSeguinte.Location = new System.Drawing.Point(1127, 525);
-            this.btnSeguinte.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnSeguinte.Location = new System.Drawing.Point(1503, 646);
-            this.btnSeguinte.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnSeguinte.Margin = new System.Windows.Forms.Padding(4);
             this.btnSeguinte.Name = "btnSeguinte";
             this.btnSeguinte.Normalcolor = System.Drawing.Color.Transparent;
             this.btnSeguinte.OnHovercolor = System.Drawing.Color.Transparent;
@@ -2965,13 +2414,8 @@
             this.btnUltimo.IconVisible = true;
             this.btnUltimo.IconZoom = 80D;
             this.btnUltimo.IsTab = false;
-<<<<<<< HEAD
             this.btnUltimo.Location = new System.Drawing.Point(1179, 525);
-            this.btnUltimo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-=======
-            this.btnUltimo.Location = new System.Drawing.Point(1572, 646);
-            this.btnUltimo.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
->>>>>>> parent of 40d2fb4... cliente
+            this.btnUltimo.Margin = new System.Windows.Forms.Padding(4);
             this.btnUltimo.Name = "btnUltimo";
             this.btnUltimo.Normalcolor = System.Drawing.Color.Transparent;
             this.btnUltimo.OnHovercolor = System.Drawing.Color.Transparent;
@@ -3007,40 +2451,28 @@
             "CPF ou CNPJ suspenso",
             "CPF pendente ou CNPJ inapto",
             "CPF regular ou CNPJ ativo"});
-<<<<<<< HEAD
             this.cboSituacaoRF.Location = new System.Drawing.Point(879, 244);
-=======
-            this.cboSituacaoRF.Location = new System.Drawing.Point(1172, 300);
-            this.cboSituacaoRF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.cboSituacaoRF.Name = "cboSituacaoRF";
             this.cboSituacaoRF.Size = new System.Drawing.Size(202, 21);
             this.cboSituacaoRF.Sorted = true;
             this.cboSituacaoRF.TabIndex = 59;
             // 
-<<<<<<< HEAD
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(1119, 251);
+            this.button1.Location = new System.Drawing.Point(770, 240);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 60;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
-=======
->>>>>>> parent of 40d2fb4... cliente
             // frmCliFor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(1233, 574);
             this.Controls.Add(this.button1);
-=======
-            this.ClientSize = new System.Drawing.Size(1644, 706);
->>>>>>> parent of 40d2fb4... cliente
             this.Controls.Add(this.label70);
             this.Controls.Add(this.cboSituacaoRF);
             this.Controls.Add(this.btnUltimo);
@@ -3097,10 +2529,6 @@
             this.Controls.Add(this.mskCep);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.KeyPreview = true;
-<<<<<<< HEAD
-=======
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> parent of 40d2fb4... cliente
             this.MaximizeBox = false;
             this.Name = "frmCliFor";
             this.ShowInTaskbar = false;
