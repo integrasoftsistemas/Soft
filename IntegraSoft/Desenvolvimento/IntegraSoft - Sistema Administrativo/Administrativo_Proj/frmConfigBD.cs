@@ -21,7 +21,7 @@ namespace IS_SisAdmin
         // vai aparecer dentro dos direitos
         public bool CatalogoFormulario => true;
 
-        string nomeArquivoXml = @".\config.xml";
+        string nomeArquivoXml = @"C:\\IntegraSoft\\ConexaoBD\config.xml";
 
         public frmConfigBD()
         {
@@ -228,7 +228,7 @@ namespace IS_SisAdmin
                 // Inicio da criação do arquivo XML dentro do ..\.
 
                 // Cria Documento
-                XmlTextWriter writer = new XmlTextWriter(@".\config.xml", System.Text.Encoding.UTF8);
+                XmlTextWriter writer = new XmlTextWriter(@"C:\\IntegraSoft\\ConexaoBD\config.xml", System.Text.Encoding.UTF8);
                 writer.WriteStartDocument();
                 writer.Formatting = Formatting.Indented;
                 writer.Indentation = 2;
@@ -288,6 +288,7 @@ namespace IS_SisAdmin
 
                     if (Qtde_Usr == -1) // BD vazio
                     {
+
                         Administrativo_Entities.Usuario usuario = new Administrativo_Entities.Usuario();
                         usuario.PW_Nome = IS_Funcoes.SegurancaCripto.Criptografar("Administrador");
                         usuario.PW_Login = IS_Funcoes.SegurancaCripto.Criptografar("IS.ADMIN");

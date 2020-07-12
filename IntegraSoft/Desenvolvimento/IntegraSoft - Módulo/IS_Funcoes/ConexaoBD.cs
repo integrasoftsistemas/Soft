@@ -14,7 +14,7 @@ namespace IS_Funcoes
             try
             {
                 XmlDocument xmlDoc = new XmlDocument();
-                xmlDoc.Load(@".\Config.xml");
+                xmlDoc.Load(@"C:\\IntegraSoft\\ConexaoBD\config.xml");
 
                 StringBuilder sb = new StringBuilder();
                 sb.Append("Data Source=").Append(SegurancaCripto.Descriptografar(xmlDoc.SelectSingleNode("/Configuracoes/ConexaoBD/ServidorInstancia").InnerText)).Append(";");

@@ -67,7 +67,7 @@ namespace IS_SisAdmin
         // Verificando se existe o XML do Banco de Dados
         private void VerificaCaminhoBD()
         {
-            string nomeArquivoXml = @".\config.xml";
+            string nomeArquivoXml = @"C:\\IntegraSoft\\ConexaoBD\config.xml";
 
             if (!File.Exists(nomeArquivoXml))
             {

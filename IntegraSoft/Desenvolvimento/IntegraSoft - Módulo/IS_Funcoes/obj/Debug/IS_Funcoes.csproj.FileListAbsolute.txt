@@ -37,3 +37,11 @@ C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Mód
 C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.csproj.CoreCompileInputs.cache
 C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.dll
 C:\Users\win10-R\source\repos\TFS\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.pdb
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\bin\Debug\IS_Funcoes.dll
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\bin\Debug\IS_Funcoes.pdb
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.csprojAssemblyReference.cache
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.Properties.Resources.resources
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.csproj.GenerateResource.cache
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.dll
+C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Módulo\IS_Funcoes\obj\Debug\IS_Funcoes.pdb

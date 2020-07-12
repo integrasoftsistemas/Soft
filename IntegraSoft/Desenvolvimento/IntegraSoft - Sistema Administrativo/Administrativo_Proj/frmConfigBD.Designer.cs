@@ -295,6 +295,7 @@
             this.btnSalvar.selected = false;
             this.btnSalvar.Size = new System.Drawing.Size(140, 35);
             this.btnSalvar.TabIndex = 56;
+            this.btnSalvar.Tag = "Salvar";
             this.btnSalvar.Text = "   &Salvar";
             this.btnSalvar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSalvar.Textcolor = System.Drawing.Color.White;
