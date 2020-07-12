@@ -158,3 +158,5 @@ C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema
 C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.csproj.CopyComplete
 C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.dll
 C:\Users\EBMASTER\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\obj\Debug\Administrativo_DAL.pdb
+C:\Users\win10-R\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.dll
+C:\Users\win10-R\Source\Repos\IntegraSoft\Desenvolvimento\IntegraSoft - Sistema Administrativo\Administrativo_DAL\bin\Debug\SmartSolutions.Controls.pdb
